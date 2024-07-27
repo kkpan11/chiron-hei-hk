@@ -1,7 +1,7 @@
 {
-    "name": "chiron-hei-hk-webfont-ttf",
-    "version": "2.5.12-alpha",
-    "description": "Webfont version (TTF) of Chiron Hei HK, a Traditional Chinese typeface.",
+    "name": "chiron-hei-hk-webfont-truetype",
+    "version": "2.5.12",
+    "description": "Webfont version of Chiron Hei HK, in TrueType outline.",
     "keywords": [
         "Traditional Chinese",
         "webfont",

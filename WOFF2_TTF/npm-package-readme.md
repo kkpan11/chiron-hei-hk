@@ -1,12 +1,13 @@
-Chiron Hei HK Webfont (TTF)
-===========================
+Chiron Hei HK Webfont (TrueType)
+================================
 
 ## About
 
-This package provides the WOFF2/TTF variant of
-the [Chiron Hei HK (昭源黑體) webfont](https://www.npmjs.com/package/chiron-hei-hk-webfont). While the font files are
-larger than the WOFF2/OTF variant, users may experience better display quality on certain platforms, especially
-Windows.
+This npm package provides a variation of
+the [Chiron Hei HK (昭源黑體) webfont](https://www.npmjs.com/package/chiron-hei-hk-webfont) webfont. The key
+distinction lies in the font’s outline format, which is offered in TrueType outlines. In specific cases, using the
+TrueType flavor may result in improved display quality on platforms like Windows. However, note that the TrueType
+font files are larger compared to their OpenType counterparts.
 
 [Chiron Hei HK (昭源黑體)](https://github.com/chiron-fonts/chiron-hei-hk) is a CJK typeface derived from the Source Han
 Sans / Noto Sans CJK font family. It aims to provide a
@@ -14,8 +15,7 @@ modern, region-agnostic glyph set adopting the “written” style that is simil
 typefaces. This makes it suitable for use in a Traditional Chinese environment.
 
 Chiron Hei HK is available in several configurations: OpenType/CFF (OTF), TrueType (TTF), OpenType/CFF2 (OTF) variable
-font, TrueType variable font, and the webfont version in WOFF File Format 2.0 (WOFF2) variable font format in TTF
-and OTF flavors.
+font, TrueType variable font, and the webfont version in WOFF File Format 2.0 (WOFF2) variable font format.
 
 This package provides the webfont (WOFF2/TTF) build of the font. It utilizes Unicode-range subsetting technology to
 reduce
@@ -28,14 +28,14 @@ family's [website](https://chiron-fonts.github.io) for usage examples (both in C
 To use this webfont, install the package first:
 
 ```bash
-npm install chiron-hei-hk-webfont-ttf
+npm install chiron-hei-hk-webfont-truetype
 ```
 
 Then, include the `css/vf.css` file in your web page. For instance, if you use [webpack](https://webpack.js.org/), you
 would import the font's CSS file with the following statement:
 
 ```css
-@import '~chiron-hei-hk-webfont-ttf/css/vf.css';
+@import '~chiron-hei-hk-webfont-truetype/css/vf.css';
 ```
 
 Finally, set the `font-family` property to `Chiron Hei HK WS`:

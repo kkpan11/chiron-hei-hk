@@ -1,8 +1,9 @@
-v2.512 (2024/XX/XX)
+v2.512 (2024/07/27)
 ====
 - 修復可變字型 (VF) 格式某些 OpenType 特性遺失。
-- 增加 TTF 網頁字型選擇。
-- 增加 OpenType 文體集 ss15、ss16（測試）。
+- 修正 variable font 斜體 style linking 問題。
+- 加入 OpenType 文體集 ss15、ss16（測試）。
+- 加入 TTF 網頁字型選擇。
 
 v2.511 (2024/06/30)
 ====
