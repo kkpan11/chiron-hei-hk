@@ -1,6 +1,10 @@
 昭源黑體 Chiron Hei HK
 =======================
 
+[English 英文](README.en.md)　　Chinese 中文
+
+## 簡介
+
 昭源黑體 (Chiron Hei HK) 是一款開源免費黑體字型。本字體收字量大、具現代感，而且字重豐富，用於熒幕顯示、紙本印刷皆宜。
 
 **注意：本字體跟另一款英文名稱為 Chiron Sans HK 和 Chiron Sans HK Pro（中文為昭源黑體 / 昭源黑體 Pro）的字體不完全相同。本字體（安裝後的字體名體是 Chiron Hei HK）可以視為 “Sans” 系列的後繼版本，而在配置上較為接近 Chiron Sans HK Pro。使用者假如有用過 “Sans” 系列而對此安排有疑問，可參閲[網站説明](https://chiron-fonts.github.io/appendix/chiron-hei-versions/)**。
