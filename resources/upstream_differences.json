@@ -4850,7 +4850,7 @@
         }
     },
     "cjkRedesignsTC": {
-        "count": 3197,
+        "count": 3203,
         "details": {
             "U+3493": {
                 "cid": 2599
@@ -10903,6 +10903,12 @@
             "U+9178": {
                 "cid": 41028
             },
+            "U+917C": {
+                "cid": 41037
+            },
+            "U+9181": {
+                "cid": 41045
+            },
             "U+9182": {
                 "cid": 41047
             },
@@ -10942,8 +10948,14 @@
             "U+919F": {
                 "cid": 41111
             },
+            "U+91A1": {
+                "cid": 41116
+            },
             "U+91A3": {
                 "cid": 41120
+            },
+            "U+91A8": {
+                "cid": 41131
             },
             "U+91A9": {
                 "cid": 41133
@@ -10977,6 +10989,9 @@
             },
             "U+91C4": {
                 "cid": 41209
+            },
+            "U+91C5": {
+                "cid": 41212
             },
             "U+91CF": {
                 "cid": 12662
@@ -13992,6 +14007,9 @@
             },
             "U+2863B": {
                 "cid": 61255
+            },
+            "U+28804": {
+                "cid": 61269
             },
             "U+2890D": {
                 "cid": 61271
@@ -21944,10 +21962,6 @@
                 "cid": 37277,
                 "glyph": "uni896C-CN"
             },
-            "U+896F": {
-                "cid": 37285,
-                "glyph": "uni896F-JP"
-            },
             "U+8977": {
                 "cid": 37304,
                 "glyph": "uni8977-CN"
@@ -22435,6 +22449,10 @@
             "U+9148": {
                 "cid": 40920,
                 "glyph": "uni9148-CN"
+            },
+            "U+91B4": {
+                "cid": 62954,
+                "glyph": "uni91B4uE0101-JP"
             },
             "U+91B9": {
                 "cid": 41178,
@@ -24330,16 +24348,16 @@
         "count": 2187,
         "details": {
             "U+203C": {
-                "cid": 43234
+                "cid": 43232
             },
             "U+2047": {
-                "cid": 43236
+                "cid": 43234
             },
             "U+2048": {
-                "cid": 43241
+                "cid": 43238
             },
             "U+2049": {
-                "cid": 43238
+                "cid": 43236
             },
             "U+3001": {
                 "cid": 63145
@@ -30896,19 +30914,19 @@
         "count": 195,
         "details": {
             "U+2018": {
-                "cid": 43007,
+                "cid": 43005,
                 "glyph": "quoteleft"
             },
             "U+2019": {
-                "cid": 43008,
+                "cid": 43007,
                 "glyph": "quoteright"
             },
             "U+201C": {
-                "cid": 43012,
+                "cid": 43008,
                 "glyph": "quotedblleft"
             },
             "U+201D": {
-                "cid": 43071,
+                "cid": 43012,
                 "glyph": "quotedblright"
             },
             "U+2E9E": {
@@ -31757,7 +31775,7 @@
                 "glyph": "Gcircumflex"
             },
             "U+011D": {
-                "cid": 41460,
+                "cid": 41458,
                 "glyph": "gcircumflex.a"
             },
             "U+011E": {
@@ -31765,7 +31783,7 @@
                 "glyph": "Gbreve"
             },
             "U+011F": {
-                "cid": 41464,
+                "cid": 41462,
                 "glyph": "gbreve.a"
             },
             "U+0120": {
@@ -31773,7 +31791,7 @@
                 "glyph": "Gdotaccent"
             },
             "U+0121": {
-                "cid": 41466,
+                "cid": 41464,
                 "glyph": "gdotaccent.a"
             },
             "U+0122": {
@@ -31781,7 +31799,7 @@
                 "glyph": "Gcommaaccent"
             },
             "U+0123": {
-                "cid": 41472,
+                "cid": 41468,
                 "glyph": "gcommaaccent.a"
             },
             "U+0124": {
@@ -32145,19 +32163,19 @@
                 "glyph": "wynn"
             },
             "U+01C0": {
-                "cid": 41252,
+                "cid": 41251,
                 "glyph": "clickdental"
             },
             "U+01C1": {
-                "cid": 41258,
+                "cid": 41252,
                 "glyph": "clicklateral"
             },
             "U+01C2": {
-                "cid": 41260,
+                "cid": 41258,
                 "glyph": "clickalveolar"
             },
             "U+01C3": {
-                "cid": 41262,
+                "cid": 41260,
                 "glyph": "clickretroflex"
             },
             "U+01DD": {
@@ -32185,7 +32203,7 @@
                 "glyph": "Gcaron"
             },
             "U+01E7": {
-                "cid": 41468,
+                "cid": 41466,
                 "glyph": "gcaron.a"
             },
             "U+01EA": {
@@ -32213,7 +32231,7 @@
                 "glyph": "Gacute"
             },
             "U+01F5": {
-                "cid": 41458,
+                "cid": 41455,
                 "glyph": "gacute.a"
             },
             "U+01F7": {
@@ -32453,7 +32471,7 @@
                 "glyph": "gammalatin"
             },
             "U+0264": {
-                "cid": 41174,
+                "cid": 41172,
                 "glyph": "ramshorn"
             },
             "U+0265": {
@@ -32509,99 +32527,99 @@
                 "glyph": "mhook"
             },
             "U+0272": {
-                "cid": 41168,
+                "cid": 41167,
                 "glyph": "nhookleft"
             },
             "U+0273": {
-                "cid": 41169,
+                "cid": 41168,
                 "glyph": "nretroflex"
             },
             "U+0274": {
-                "cid": 41172,
+                "cid": 41171,
                 "glyph": "nsmall"
             },
             "U+0275": {
-                "cid": 41176,
+                "cid": 41174,
                 "glyph": "obar"
             },
             "U+0276": {
-                "cid": 41179,
+                "cid": 41176,
                 "glyph": "oesmall"
             },
             "U+0277": {
-                "cid": 41180,
+                "cid": 41179,
                 "glyph": "omegalatinclosed"
             },
             "U+0278": {
-                "cid": 41182,
+                "cid": 41180,
                 "glyph": "philatin"
             },
             "U+0279": {
-                "cid": 41184,
+                "cid": 41182,
                 "glyph": "rturned"
             },
             "U+027A": {
-                "cid": 41186,
+                "cid": 41184,
                 "glyph": "rlonglegturned"
             },
             "U+027B": {
-                "cid": 41188,
+                "cid": 41186,
                 "glyph": "rhookturned"
             },
             "U+027D": {
-                "cid": 41189,
+                "cid": 41188,
                 "glyph": "rtail"
             },
             "U+027E": {
-                "cid": 41191,
+                "cid": 41189,
                 "glyph": "rfishhook"
             },
             "U+027F": {
-                "cid": 41266,
+                "cid": 41264,
                 "glyph": "apicaldental"
             },
             "U+0280": {
-                "cid": 41193,
+                "cid": 41191,
                 "glyph": "rsmall"
             },
             "U+0281": {
-                "cid": 41194,
+                "cid": 41193,
                 "glyph": "rsmallinverted"
             },
             "U+0282": {
-                "cid": 41196,
+                "cid": 41194,
                 "glyph": "shook"
             },
             "U+0283": {
-                "cid": 41197,
+                "cid": 41196,
                 "glyph": "esh"
             },
             "U+0284": {
-                "cid": 41198,
+                "cid": 41197,
                 "glyph": "dotlessjstrokehook"
             },
             "U+0285": {
-                "cid": 41269,
+                "cid": 41266,
                 "glyph": "apicalretroflex"
             },
             "U+0287": {
-                "cid": 41200,
+                "cid": 41198,
                 "glyph": "tturned"
             },
             "U+0288": {
-                "cid": 41201,
+                "cid": 41200,
                 "glyph": "tretroflex"
             },
             "U+0289": {
-                "cid": 41210,
+                "cid": 41208,
                 "glyph": "ubar"
             },
             "U+028A": {
-                "cid": 41211,
+                "cid": 41210,
                 "glyph": "upsilonlatin"
             },
             "U+028B": {
-                "cid": 41219,
+                "cid": 41216,
                 "glyph": "vhook"
             },
             "U+028C": {
@@ -32609,23 +32627,23 @@
                 "glyph": "vturned"
             },
             "U+028D": {
-                "cid": 41231,
+                "cid": 41226,
                 "glyph": "wturned"
             },
             "U+028E": {
-                "cid": 41233,
+                "cid": 41231,
                 "glyph": "yturned"
             },
             "U+028F": {
-                "cid": 41236,
+                "cid": 41233,
                 "glyph": "ysmall"
             },
             "U+0290": {
-                "cid": 41238,
+                "cid": 41236,
                 "glyph": "zretroflex"
             },
             "U+0291": {
-                "cid": 41240,
+                "cid": 41238,
                 "glyph": "zcurl"
             },
             "U+0292": {
@@ -32633,15 +32651,15 @@
                 "glyph": "ezh"
             },
             "U+0294": {
-                "cid": 41244,
+                "cid": 41242,
                 "glyph": "glottalstop"
             },
             "U+0295": {
-                "cid": 41247,
+                "cid": 41244,
                 "glyph": "glottalstopreversed"
             },
             "U+0298": {
-                "cid": 41264,
+                "cid": 41262,
                 "glyph": "clickbilabial"
             },
             "U+0299": {
@@ -32669,11 +32687,11 @@
                 "glyph": "lsmall"
             },
             "U+02A1": {
-                "cid": 41249,
+                "cid": 41247,
                 "glyph": "glottalstopstroke"
             },
             "U+02A2": {
-                "cid": 41251,
+                "cid": 41249,
                 "glyph": "glottalstopstrokereversed"
             },
             "U+02A3": {
@@ -32689,1047 +32707,1047 @@
                 "glyph": "dzcurl"
             },
             "U+02A6": {
-                "cid": 41203,
+                "cid": 41201,
                 "glyph": "ts"
             },
             "U+02A7": {
-                "cid": 41205,
+                "cid": 41203,
                 "glyph": "tesh"
             },
             "U+02A8": {
-                "cid": 41206,
+                "cid": 41205,
                 "glyph": "tccurl"
             },
             "U+02B0": {
-                "cid": 44554,
+                "cid": 44553,
                 "glyph": "h.sups"
             },
             "U+02B1": {
-                "cid": 44601,
+                "cid": 44599,
                 "glyph": "hhook.sups"
             },
             "U+02B2": {
-                "cid": 44557,
+                "cid": 44556,
                 "glyph": "j.sups"
             },
             "U+02B3": {
-                "cid": 44571,
+                "cid": 44570,
                 "glyph": "r.sups"
             },
             "U+02B4": {
-                "cid": 44602,
+                "cid": 44601,
                 "glyph": "rturned.sups"
             },
             "U+02B7": {
-                "cid": 44579,
+                "cid": 44577,
                 "glyph": "w.sups"
             },
             "U+02B8": {
-                "cid": 44582,
+                "cid": 44581,
                 "glyph": "y.sups"
             },
             "U+02B9": {
-                "cid": 45045,
+                "cid": 45040,
                 "glyph": "primemod"
             },
             "U+02BC": {
-                "cid": 45049,
+                "cid": 45046,
                 "glyph": "apostrophemod"
             },
             "U+02BD": {
-                "cid": 45051,
+                "cid": 45049,
                 "glyph": "commareversedmod"
             },
             "U+02BE": {
-                "cid": 45054,
+                "cid": 45051,
                 "glyph": "ringhalfrightmod"
             },
             "U+02BF": {
-                "cid": 45056,
+                "cid": 45054,
                 "glyph": "ringhalfleftmod"
             },
             "U+02C0": {
-                "cid": 45059,
+                "cid": 45056,
                 "glyph": "glottalstopmod"
             },
             "U+02C1": {
-                "cid": 45061,
+                "cid": 45059,
                 "glyph": "glottalstopreversedmod"
             },
             "U+02C6": {
-                "cid": 45017,
+                "cid": 45016,
                 "glyph": "circumflex"
             },
             "U+02C8": {
-                "cid": 45143,
+                "cid": 45140,
                 "glyph": "verticallinemod"
             },
             "U+02CC": {
-                "cid": 45149,
+                "cid": 45148,
                 "glyph": "verticallinelowmod"
             },
             "U+02D0": {
-                "cid": 45062,
+                "cid": 45061,
                 "glyph": "colontriangularmod"
             },
             "U+02D1": {
-                "cid": 45064,
+                "cid": 45062,
                 "glyph": "colontriangularhalfmod"
             },
             "U+02D2": {
-                "cid": 45065,
+                "cid": 45064,
                 "glyph": "ringhalfrightcenteredmod"
             },
             "U+02D3": {
-                "cid": 45068,
+                "cid": 45065,
                 "glyph": "ringhalfleftcenteredmod"
             },
             "U+02D4": {
-                "cid": 45069,
+                "cid": 45068,
                 "glyph": "uptackmod"
             },
             "U+02D5": {
-                "cid": 45136,
+                "cid": 45069,
                 "glyph": "downtackmod"
             },
             "U+02D6": {
-                "cid": 45138,
+                "cid": 45136,
                 "glyph": "plusmod"
             },
             "U+02D7": {
-                "cid": 45139,
+                "cid": 45138,
                 "glyph": "minusmod"
             },
             "U+02D8": {
-                "cid": 45031,
+                "cid": 45029,
                 "glyph": "breve"
             },
             "U+02DA": {
-                "cid": 45033,
+                "cid": 45031,
                 "glyph": "ring"
             },
             "U+02DB": {
-                "cid": 45040,
+                "cid": 45038,
                 "glyph": "ogonek"
             },
             "U+02DC": {
-                "cid": 45025,
+                "cid": 45020,
                 "glyph": "tilde"
             },
             "U+02DD": {
-                "cid": 45034,
+                "cid": 45033,
                 "glyph": "hungarumlaut"
             },
             "U+02DE": {
-                "cid": 45140,
+                "cid": 45139,
                 "glyph": "hookrhoticmod"
             },
             "U+02E0": {
-                "cid": 44604,
+                "cid": 44602,
                 "glyph": "gammalatin.sups"
             },
             "U+02E1": {
-                "cid": 44560,
+                "cid": 44559,
                 "glyph": "l.sups"
             },
             "U+02E2": {
-                "cid": 44573,
+                "cid": 44571,
                 "glyph": "s.sups"
             },
             "U+02E3": {
-                "cid": 44581,
+                "cid": 44579,
                 "glyph": "x.sups"
             },
             "U+02E4": {
-                "cid": 44605,
+                "cid": 44604,
                 "glyph": "glottalstopreversed.sups"
             },
             "U+02ED": {
-                "cid": 44418,
+                "cid": 44415,
                 "glyph": "equal.sups"
             },
             "U+0302": {
-                "cid": 45163,
+                "cid": 45162,
                 "glyph": "circumflexcmb"
             },
             "U+0303": {
-                "cid": 45167,
+                "cid": 45166,
                 "glyph": "tildecmb"
             },
             "U+0305": {
-                "cid": 45174,
+                "cid": 45171,
                 "glyph": "overlinecmb"
             },
             "U+0306": {
-                "cid": 45176,
+                "cid": 45175,
                 "glyph": "brevecmb"
             },
             "U+0308": {
-                "cid": 45184,
+                "cid": 45182,
                 "glyph": "dieresiscmb"
             },
             "U+0309": {
-                "cid": 45187,
+                "cid": 45186,
                 "glyph": "hoicmb"
             },
             "U+030A": {
-                "cid": 45191,
+                "cid": 45188,
                 "glyph": "ringcmb"
             },
             "U+030B": {
-                "cid": 45193,
+                "cid": 45192,
                 "glyph": "hungarumlautcmb"
             },
             "U+030D": {
-                "cid": 45200,
+                "cid": 45199,
                 "glyph": "verticallineabovecmb"
             },
             "U+030F": {
-                "cid": 45204,
+                "cid": 45201,
                 "glyph": "dblgravecmb"
             },
             "U+0310": {
-                "cid": 45207,
+                "cid": 45205,
                 "glyph": "candrabinducmb"
             },
             "U+0311": {
-                "cid": 45209,
+                "cid": 45208,
                 "glyph": "breveinvertedcmb"
             },
             "U+0312": {
-                "cid": 45213,
+                "cid": 45210,
                 "glyph": "commaturnedabovecmb"
             },
             "U+0313": {
-                "cid": 45218,
+                "cid": 45217,
                 "glyph": "commaabovecmb"
             },
             "U+0315": {
-                "cid": 45222,
+                "cid": 45221,
                 "glyph": "commaaboverightcmb"
             },
             "U+0318": {
-                "cid": 45227,
+                "cid": 45225,
                 "glyph": "lefttackbelowcmb"
             },
             "U+0319": {
-                "cid": 45228,
+                "cid": 45227,
                 "glyph": "righttackbelowcmb"
             },
             "U+031A": {
-                "cid": 45232,
+                "cid": 45228,
                 "glyph": "leftangleabovecmb"
             },
             "U+031B": {
-                "cid": 45233,
+                "cid": 45232,
                 "glyph": "horncmb"
             },
             "U+031C": {
-                "cid": 45235,
+                "cid": 45233,
                 "glyph": "ringhalfleftbelowcmb"
             },
             "U+031D": {
-                "cid": 45237,
+                "cid": 45235,
                 "glyph": "uptackbelowcmb"
             },
             "U+031E": {
-                "cid": 45238,
+                "cid": 45237,
                 "glyph": "downtackbelowcmb"
             },
             "U+031F": {
-                "cid": 45239,
+                "cid": 45238,
                 "glyph": "plusbelowcmb"
             },
             "U+0320": {
-                "cid": 45242,
+                "cid": 45239,
                 "glyph": "minusbelowcmb"
             },
             "U+0323": {
-                "cid": 45243,
+                "cid": 45242,
                 "glyph": "dotbelowcmb"
             },
             "U+0324": {
-                "cid": 45245,
+                "cid": 45243,
                 "glyph": "dieresisbelowcmb"
             },
             "U+0325": {
-                "cid": 45246,
+                "cid": 45245,
                 "glyph": "ringbelowcmb"
             },
             "U+0326": {
-                "cid": 45247,
+                "cid": 45246,
                 "glyph": "commabelowcmb"
             },
             "U+0327": {
-                "cid": 45249,
+                "cid": 45248,
                 "glyph": "cedillacmb"
             },
             "U+0328": {
-                "cid": 45252,
+                "cid": 45251,
                 "glyph": "ogonekcmb"
             },
             "U+0329": {
-                "cid": 45256,
+                "cid": 45253,
                 "glyph": "verticallinebelowcmb"
             },
             "U+032A": {
-                "cid": 45257,
+                "cid": 45256,
                 "glyph": "bridgebelowcmb"
             },
             "U+032C": {
-                "cid": 45258,
+                "cid": 45257,
                 "glyph": "caronbelowcmb"
             },
             "U+032E": {
-                "cid": 45259,
+                "cid": 45258,
                 "glyph": "brevebelowcmb"
             },
             "U+032F": {
-                "cid": 45260,
+                "cid": 45259,
                 "glyph": "breveinvertedbelowcmb"
             },
             "U+0330": {
-                "cid": 45262,
+                "cid": 45260,
                 "glyph": "tildebelowcmb"
             },
             "U+0331": {
-                "cid": 45263,
+                "cid": 45262,
                 "glyph": "macronbelowcmb"
             },
             "U+0332": {
-                "cid": 45264,
+                "cid": 45263,
                 "glyph": "lowlinecmb"
             },
             "U+0334": {
-                "cid": 45266,
+                "cid": 45264,
                 "glyph": "tildeoverlaycmb"
             },
             "U+0337": {
-                "cid": 45314,
+                "cid": 45313,
                 "glyph": "slashshortcmb"
             },
             "U+0338": {
-                "cid": 45316,
+                "cid": 45314,
                 "glyph": "slashlongcmb"
             },
             "U+0339": {
-                "cid": 45267,
+                "cid": 45266,
                 "glyph": "ringhalfrightbelowcmb"
             },
             "U+033A": {
-                "cid": 45271,
+                "cid": 45267,
                 "glyph": "bridgeinvertedbelowcmb"
             },
             "U+033B": {
-                "cid": 45274,
+                "cid": 45271,
                 "glyph": "squarebelowcmb"
             },
             "U+033C": {
-                "cid": 45276,
+                "cid": 45274,
                 "glyph": "seagullbelowcmb"
             },
             "U+033D": {
-                "cid": 45279,
+                "cid": 45276,
                 "glyph": "xabovecmb"
             },
             "U+0340": {
-                "cid": 45157,
+                "cid": 45155,
                 "glyph": "variacmb"
             },
             "U+0342": {
-                "cid": 45283,
+                "cid": 45279,
                 "glyph": "perispomenicmb"
             },
             "U+0343": {
-                "cid": 45287,
+                "cid": 45285,
                 "glyph": "koroniscmb"
             },
             "U+0344": {
-                "cid": 45289,
+                "cid": 45287,
                 "glyph": "dialytikatonoscmb"
             },
             "U+0345": {
-                "cid": 45290,
+                "cid": 45289,
                 "glyph": "iotasubscriptcmb"
             },
             "U+034F": {
-                "cid": 45407,
+                "cid": 45405,
                 "glyph": "CGJ"
             },
             "U+0357": {
-                "cid": 45292,
+                "cid": 45290,
                 "glyph": "ringhalfrightabovecmb"
             },
             "U+0358": {
-                "cid": 45296,
+                "cid": 45294,
                 "glyph": "dotaboverightcmb"
             },
             "U+035C": {
-                "cid": 45301,
+                "cid": 45298,
                 "glyph": "brevedoublebelowcmb"
             },
             "U+035E": {
-                "cid": 45303,
+                "cid": 45301,
                 "glyph": "macrondoublecmb"
             },
             "U+035F": {
-                "cid": 45305,
+                "cid": 45303,
                 "glyph": "macrondoublebelowcmb"
             },
             "U+0361": {
-                "cid": 45307,
+                "cid": 45305,
                 "glyph": "breveinverteddoublecmb"
             },
             "U+0374": {
-                "cid": 42120,
+                "cid": 42118,
                 "glyph": "numeralsign"
             },
             "U+0375": {
-                "cid": 42122,
+                "cid": 42120,
                 "glyph": "lownumeralsign"
             },
             "U+037A": {
-                "cid": 42129,
+                "cid": 42127,
                 "glyph": "iotasubscript"
             },
             "U+037E": {
-                "cid": 42115,
+                "cid": 42113,
                 "glyph": "questiongreek"
             },
             "U+0384": {
-                "cid": 42123,
+                "cid": 42122,
                 "glyph": "tonos"
             },
             "U+0385": {
-                "cid": 42127,
+                "cid": 42126,
                 "glyph": "dieresistonos"
             },
             "U+0386": {
-                "cid": 41568,
+                "cid": 41566,
                 "glyph": "Alphatonos"
             },
             "U+0387": {
-                "cid": 42116,
+                "cid": 42115,
                 "glyph": "anoteleia"
             },
             "U+0388": {
-                "cid": 41570,
+                "cid": 41568,
                 "glyph": "Epsilontonos"
             },
             "U+0389": {
-                "cid": 41571,
+                "cid": 41570,
                 "glyph": "Etatonos"
             },
             "U+038A": {
-                "cid": 41572,
+                "cid": 41571,
                 "glyph": "Iotatonos"
             },
             "U+038C": {
-                "cid": 41577,
+                "cid": 41575,
                 "glyph": "Omicrontonos"
             },
             "U+038E": {
-                "cid": 41578,
+                "cid": 41577,
                 "glyph": "Upsilontonos"
             },
             "U+038F": {
-                "cid": 41581,
+                "cid": 41579,
                 "glyph": "Omegatonos"
             },
             "U+0390": {
-                "cid": 41676,
+                "cid": 41674,
                 "glyph": "iotadieresistonos"
             },
             "U+03AA": {
-                "cid": 41575,
+                "cid": 41572,
                 "glyph": "Iotadieresis"
             },
             "U+03AB": {
-                "cid": 41579,
+                "cid": 41578,
                 "glyph": "Upsilondieresis"
             },
             "U+03AC": {
-                "cid": 41658,
+                "cid": 41656,
                 "glyph": "alphatonos"
             },
             "U+03AD": {
-                "cid": 41659,
+                "cid": 41658,
                 "glyph": "epsilontonos"
             },
             "U+03AE": {
-                "cid": 41660,
+                "cid": 41659,
                 "glyph": "etatonos"
             },
             "U+03AF": {
-                "cid": 41662,
+                "cid": 41660,
                 "glyph": "iotatonos"
             },
             "U+03B0": {
-                "cid": 41677,
+                "cid": 41676,
                 "glyph": "upsilondieresistonos"
             },
             "U+03CA": {
-                "cid": 41664,
+                "cid": 41662,
                 "glyph": "iotadieresis"
             },
             "U+03CB": {
-                "cid": 41672,
+                "cid": 41668,
                 "glyph": "upsilondieresis"
             },
             "U+03CC": {
-                "cid": 41667,
+                "cid": 41664,
                 "glyph": "omicrontonos"
             },
             "U+03CD": {
-                "cid": 41668,
+                "cid": 41667,
                 "glyph": "upsilontonos"
             },
             "U+03CE": {
-                "cid": 41674,
+                "cid": 41672,
                 "glyph": "omegatonos"
             },
             "U+03CF": {
-                "cid": 42113,
+                "cid": 42112,
                 "glyph": "Kai"
             },
             "U+03D0": {
-                "cid": 41653,
+                "cid": 41652,
                 "glyph": "beta.a"
             },
             "U+03D1": {
-                "cid": 41654,
+                "cid": 41653,
                 "glyph": "theta.a"
             },
             "U+03D5": {
-                "cid": 41627,
+                "cid": 41626,
                 "glyph": "phi"
             },
             "U+03D7": {
-                "cid": 42112,
+                "cid": 42110,
                 "glyph": "kai"
             },
             "U+03D9": {
-                "cid": 41639,
+                "cid": 41637,
                 "glyph": "koppa"
             },
             "U+03DB": {
-                "cid": 41644,
+                "cid": 41639,
                 "glyph": "stigma"
             },
             "U+03DD": {
-                "cid": 41645,
+                "cid": 41644,
                 "glyph": "digamma"
             },
             "U+03E1": {
-                "cid": 41647,
+                "cid": 41645,
                 "glyph": "sampi"
             },
             "U+03F4": {
-                "cid": 41652,
+                "cid": 41649,
                 "glyph": "Theta.a"
             },
             "U+03F7": {
-                "cid": 41566,
+                "cid": 41563,
                 "glyph": "Sho"
             },
             "U+03F8": {
-                "cid": 41649,
+                "cid": 41647,
                 "glyph": "sho"
             },
             "U+0400": {
-                "cid": 42243,
+                "cid": 42242,
                 "glyph": "Iegrave"
             },
             "U+0402": {
-                "cid": 42249,
+                "cid": 42244,
                 "glyph": "Dje"
             },
             "U+0403": {
-                "cid": 42250,
+                "cid": 42249,
                 "glyph": "Gje"
             },
             "U+0404": {
-                "cid": 42251,
+                "cid": 42250,
                 "glyph": "Ieukran"
             },
             "U+0405": {
-                "cid": 42252,
+                "cid": 42251,
                 "glyph": "Dze"
             },
             "U+0406": {
-                "cid": 42253,
+                "cid": 42252,
                 "glyph": "Iukran"
             },
             "U+0407": {
-                "cid": 42255,
+                "cid": 42253,
                 "glyph": "Yi"
             },
             "U+0408": {
-                "cid": 42256,
+                "cid": 42255,
                 "glyph": "Je"
             },
             "U+0409": {
-                "cid": 42257,
+                "cid": 42256,
                 "glyph": "Lje"
             },
             "U+040A": {
-                "cid": 42259,
+                "cid": 42257,
                 "glyph": "Nje"
             },
             "U+040B": {
-                "cid": 42261,
+                "cid": 42259,
                 "glyph": "Tshe"
             },
             "U+040C": {
-                "cid": 42264,
+                "cid": 42261,
                 "glyph": "Kje"
             },
             "U+040D": {
-                "cid": 42265,
+                "cid": 42264,
                 "glyph": "Igravecyr"
             },
             "U+040E": {
-                "cid": 42267,
+                "cid": 42265,
                 "glyph": "Ushort"
             },
             "U+040F": {
-                "cid": 42268,
+                "cid": 42267,
                 "glyph": "Dzhe"
             },
             "U+0450": {
-                "cid": 42403,
+                "cid": 42401,
                 "glyph": "iegrave"
             },
             "U+0452": {
-                "cid": 42408,
+                "cid": 42406,
                 "glyph": "dje"
             },
             "U+0453": {
-                "cid": 42410,
+                "cid": 42408,
                 "glyph": "gje"
             },
             "U+0454": {
-                "cid": 42411,
+                "cid": 42410,
                 "glyph": "ieukran"
             },
             "U+0455": {
-                "cid": 42414,
+                "cid": 42411,
                 "glyph": "dze"
             },
             "U+0456": {
-                "cid": 42416,
+                "cid": 42414,
                 "glyph": "iukran"
             },
             "U+0457": {
-                "cid": 42418,
+                "cid": 42416,
                 "glyph": "yi"
             },
             "U+0458": {
-                "cid": 42420,
+                "cid": 42418,
                 "glyph": "je"
             },
             "U+0459": {
-                "cid": 42421,
+                "cid": 42420,
                 "glyph": "lje"
             },
             "U+045A": {
-                "cid": 42422,
+                "cid": 42421,
                 "glyph": "nje"
             },
             "U+045B": {
-                "cid": 42424,
+                "cid": 42422,
                 "glyph": "tshe"
             },
             "U+045C": {
-                "cid": 42425,
+                "cid": 42424,
                 "glyph": "kje"
             },
             "U+045D": {
-                "cid": 42427,
+                "cid": 42425,
                 "glyph": "igravecyr"
             },
             "U+045E": {
-                "cid": 42429,
+                "cid": 42427,
                 "glyph": "ushort"
             },
             "U+045F": {
-                "cid": 42430,
+                "cid": 42429,
                 "glyph": "dzhe"
             },
             "U+0462": {
-                "cid": 42269,
+                "cid": 42268,
                 "glyph": "Yat"
             },
             "U+0463": {
-                "cid": 42433,
+                "cid": 42430,
                 "glyph": "yat"
             },
             "U+0472": {
-                "cid": 42271,
+                "cid": 42269,
                 "glyph": "Fita"
             },
             "U+0473": {
-                "cid": 42434,
+                "cid": 42433,
                 "glyph": "fita"
             },
             "U+0474": {
-                "cid": 42274,
+                "cid": 42271,
                 "glyph": "Izhitsa"
             },
             "U+0475": {
-                "cid": 42437,
+                "cid": 42434,
                 "glyph": "izhitsa"
             },
             "U+0490": {
-                "cid": 42275,
+                "cid": 42274,
                 "glyph": "Gheup"
             },
             "U+0491": {
-                "cid": 42438,
+                "cid": 42437,
                 "glyph": "gheup"
             },
             "U+0492": {
-                "cid": 42278,
+                "cid": 42275,
                 "glyph": "Ghestroke"
             },
             "U+0493": {
-                "cid": 42439,
+                "cid": 42438,
                 "glyph": "ghestroke"
             },
             "U+0496": {
-                "cid": 42285,
+                "cid": 42282,
                 "glyph": "Zhedescender"
             },
             "U+0497": {
-                "cid": 42443,
+                "cid": 42441,
                 "glyph": "zhedescender"
             },
             "U+0498": {
-                "cid": 42289,
+                "cid": 42285,
                 "glyph": "Zedescender"
             },
             "U+0499": {
-                "cid": 42444,
+                "cid": 42443,
                 "glyph": "zedescender"
             },
             "U+049A": {
-                "cid": 42292,
+                "cid": 42289,
                 "glyph": "Kadescender"
             },
             "U+049B": {
-                "cid": 42447,
+                "cid": 42444,
                 "glyph": "kadescender"
             },
             "U+04A0": {
-                "cid": 42295,
+                "cid": 42292,
                 "glyph": "Kabashkir"
             },
             "U+04A1": {
-                "cid": 42450,
+                "cid": 42447,
                 "glyph": "kabashkir"
             },
             "U+04A2": {
-                "cid": 42298,
+                "cid": 42296,
                 "glyph": "Endescender"
             },
             "U+04A3": {
-                "cid": 42454,
+                "cid": 42452,
                 "glyph": "endescender"
             },
             "U+04AA": {
-                "cid": 42302,
+                "cid": 42300,
                 "glyph": "Esdescender"
             },
             "U+04AB": {
-                "cid": 42456,
+                "cid": 42455,
                 "glyph": "esdescender"
             },
             "U+04AE": {
-                "cid": 42303,
+                "cid": 42302,
                 "glyph": "Ustraight"
             },
             "U+04AF": {
-                "cid": 42459,
+                "cid": 42456,
                 "glyph": "ustraight"
             },
             "U+04B0": {
-                "cid": 42305,
+                "cid": 42303,
                 "glyph": "Ustraightstroke"
             },
             "U+04B1": {
-                "cid": 42461,
+                "cid": 42459,
                 "glyph": "ustraightstroke"
             },
             "U+04B2": {
-                "cid": 42306,
+                "cid": 42305,
                 "glyph": "Hadescender"
             },
             "U+04B3": {
-                "cid": 42462,
+                "cid": 42461,
                 "glyph": "hadescender"
             },
             "U+04B6": {
-                "cid": 42307,
+                "cid": 42306,
                 "glyph": "Chedescender"
             },
             "U+04B7": {
-                "cid": 42463,
+                "cid": 42462,
                 "glyph": "chedescender"
             },
             "U+04BA": {
-                "cid": 42309,
+                "cid": 42307,
                 "glyph": "Shha"
             },
             "U+04BB": {
-                "cid": 42465,
+                "cid": 42463,
                 "glyph": "shha"
             },
             "U+04C0": {
-                "cid": 42311,
+                "cid": 42309,
                 "glyph": "Palochka"
             },
             "U+04C1": {
-                "cid": 42312,
+                "cid": 42311,
                 "glyph": "Zhebreve"
             },
             "U+04C2": {
-                "cid": 42468,
+                "cid": 42465,
                 "glyph": "zhebreve"
             },
             "U+04C3": {
-                "cid": 42296,
+                "cid": 42295,
                 "glyph": "Kahook"
             },
             "U+04C4": {
-                "cid": 42452,
+                "cid": 42450,
                 "glyph": "kahook"
             },
             "U+04C7": {
-                "cid": 42300,
+                "cid": 42298,
                 "glyph": "Enhook"
             },
             "U+04C8": {
-                "cid": 42455,
+                "cid": 42454,
                 "glyph": "enhook"
             },
             "U+04CF": {
-                "cid": 42469,
+                "cid": 42468,
                 "glyph": "palochka"
             },
             "U+04D0": {
-                "cid": 42313,
+                "cid": 42312,
                 "glyph": "Abrevecyr"
             },
             "U+04D1": {
-                "cid": 42471,
+                "cid": 42469,
                 "glyph": "abrevecyr"
             },
             "U+04D4": {
-                "cid": 42315,
+                "cid": 42313,
                 "glyph": "Aie"
             },
             "U+04D5": {
-                "cid": 42472,
+                "cid": 42471,
                 "glyph": "aie"
             },
             "U+04D6": {
-                "cid": 42317,
+                "cid": 42315,
                 "glyph": "Iebreve"
             },
             "U+04D7": {
-                "cid": 42475,
+                "cid": 42472,
                 "glyph": "iebreve"
             },
             "U+04D8": {
-                "cid": 42318,
+                "cid": 42317,
                 "glyph": "Schwacyr"
             },
             "U+04D9": {
-                "cid": 42480,
+                "cid": 42475,
                 "glyph": "schwacyr"
             },
             "U+04E2": {
-                "cid": 42321,
+                "cid": 42318,
                 "glyph": "Imacroncyr"
             },
             "U+04E3": {
-                "cid": 42483,
+                "cid": 42480,
                 "glyph": "imacroncyr"
             },
             "U+04E6": {
-                "cid": 42323,
+                "cid": 42321,
                 "glyph": "Odieresiscyr"
             },
             "U+04E7": {
-                "cid": 42484,
+                "cid": 42483,
                 "glyph": "odieresiscyr"
             },
             "U+04E8": {
-                "cid": 42326,
+                "cid": 42323,
                 "glyph": "Obarcyr"
             },
             "U+04E9": {
-                "cid": 42485,
+                "cid": 42484,
                 "glyph": "obarcyr"
             },
             "U+04EE": {
-                "cid": 42329,
+                "cid": 42326,
                 "glyph": "Umacroncyr"
             },
             "U+04EF": {
-                "cid": 42486,
+                "cid": 42485,
                 "glyph": "umacroncyr"
             },
             "U+04F2": {
-                "cid": 42331,
+                "cid": 42329,
                 "glyph": "Uacutedblcyr"
             },
             "U+04F3": {
-                "cid": 42488,
+                "cid": 42486,
                 "glyph": "uacutedblcyr"
             },
             "U+04F6": {
-                "cid": 42282,
+                "cid": 42278,
                 "glyph": "Ghedescender"
             },
             "U+04F7": {
-                "cid": 42441,
+                "cid": 42439,
                 "glyph": "ghedescender"
             },
             "U+1D25": {
-                "cid": 41242,
+                "cid": 41240,
                 "glyph": "ain"
             },
             "U+1D2C": {
-                "cid": 44503,
+                "cid": 44501,
                 "glyph": "A.sups"
             },
             "U+1D2E": {
-                "cid": 44504,
+                "cid": 44503,
                 "glyph": "B.sups"
             },
             "U+1D30": {
-                "cid": 44508,
+                "cid": 44506,
                 "glyph": "D.sups"
             },
             "U+1D31": {
-                "cid": 44509,
+                "cid": 44508,
                 "glyph": "E.sups"
             },
             "U+1D33": {
-                "cid": 44512,
+                "cid": 44511,
                 "glyph": "G.sups"
             },
             "U+1D34": {
-                "cid": 44514,
+                "cid": 44512,
                 "glyph": "H.sups"
             },
             "U+1D35": {
-                "cid": 44515,
+                "cid": 44514,
                 "glyph": "I.sups"
             },
             "U+1D36": {
-                "cid": 44516,
+                "cid": 44515,
                 "glyph": "J.sups"
             },
             "U+1D37": {
-                "cid": 44518,
+                "cid": 44516,
                 "glyph": "K.sups"
             },
             "U+1D38": {
-                "cid": 44519,
+                "cid": 44518,
                 "glyph": "L.sups"
             },
             "U+1D39": {
-                "cid": 44521,
+                "cid": 44519,
                 "glyph": "M.sups"
             },
             "U+1D3A": {
-                "cid": 44523,
+                "cid": 44521,
                 "glyph": "N.sups"
             },
             "U+1D3C": {
-                "cid": 44524,
+                "cid": 44523,
                 "glyph": "O.sups"
             },
             "U+1D3E": {
-                "cid": 44527,
+                "cid": 44524,
                 "glyph": "P.sups"
             },
             "U+1D3F": {
-                "cid": 44531,
+                "cid": 44529,
                 "glyph": "R.sups"
             },
             "U+1D40": {
-                "cid": 44534,
+                "cid": 44532,
                 "glyph": "T.sups"
             },
             "U+1D41": {
-                "cid": 44535,
+                "cid": 44534,
                 "glyph": "U.sups"
             },
             "U+1D42": {
-                "cid": 44538,
+                "cid": 44537,
                 "glyph": "W.sups"
             },
             "U+1D43": {
-                "cid": 44544,
+                "cid": 44542,
                 "glyph": "a.sups"
             },
             "U+1D47": {
-                "cid": 44545,
+                "cid": 44544,
                 "glyph": "b.sups"
             },
             "U+1D48": {
-                "cid": 44548,
+                "cid": 44547,
                 "glyph": "d.sups"
             },
             "U+1D49": {
-                "cid": 44550,
+                "cid": 44548,
                 "glyph": "e.sups"
             },
             "U+1D4A": {
-                "cid": 44589,
+                "cid": 44588,
                 "glyph": "schwa.sups"
             },
             "U+1D4B": {
-                "cid": 44591,
+                "cid": 44589,
                 "glyph": "eopen.sups"
             },
             "U+1D4D": {
-                "cid": 44608,
+                "cid": 44607,
                 "glyph": "g.supa"
             },
             "U+1D4F": {
-                "cid": 44559,
+                "cid": 44557,
                 "glyph": "k.sups"
             },
             "U+1D50": {
-                "cid": 44562,
+                "cid": 44560,
                 "glyph": "m.sups"
             },
             "U+1D51": {
-                "cid": 44592,
+                "cid": 44591,
                 "glyph": "eng.sups"
             },
             "U+1D52": {
-                "cid": 44566,
+                "cid": 44565,
                 "glyph": "o.sups"
             },
             "U+1D56": {
-                "cid": 44568,
+                "cid": 44566,
                 "glyph": "p.sups"
             },
             "U+1D57": {
-                "cid": 44574,
+                "cid": 44573,
                 "glyph": "t.sups"
             },
             "U+1D58": {
-                "cid": 44576,
+                "cid": 44574,
                 "glyph": "u.sups"
             },
             "U+1D5B": {
-                "cid": 44577,
+                "cid": 44576,
                 "glyph": "v.sups"
             },
             "U+1D6F": {
@@ -33737,7 +33755,7 @@
                 "glyph": "mmiddletilde"
             },
             "U+1D70": {
-                "cid": 41171,
+                "cid": 41169,
                 "glyph": "nmiddletilde"
             },
             "U+1D79": {
@@ -33749,39 +33767,39 @@
                 "glyph": "ismallstroke"
             },
             "U+1D7F": {
-                "cid": 41216,
+                "cid": 41211,
                 "glyph": "upsilonstroke"
             },
             "U+1D9C": {
-                "cid": 44547,
+                "cid": 44545,
                 "glyph": "c.sups"
             },
             "U+1DA0": {
-                "cid": 44551,
+                "cid": 44550,
                 "glyph": "f.sups"
             },
             "U+1DAC": {
-                "cid": 44595,
+                "cid": 44592,
                 "glyph": "mhook.sups"
             },
             "U+1DAE": {
-                "cid": 44596,
+                "cid": 44595,
                 "glyph": "nhookleft.sups"
             },
             "U+1DB0": {
-                "cid": 44598,
+                "cid": 44596,
                 "glyph": "nsmall.sups"
             },
             "U+1DBB": {
-                "cid": 44584,
+                "cid": 44582,
                 "glyph": "z.sups"
             },
             "U+1DBF": {
-                "cid": 44599,
+                "cid": 44598,
                 "glyph": "theta.sups"
             },
             "U+1DCD": {
-                "cid": 45309,
+                "cid": 45307,
                 "glyph": "circumflexdoublecmb"
             },
             "U+1E02": {
@@ -33853,7 +33871,7 @@
                 "glyph": "Gmacron"
             },
             "U+1E21": {
-                "cid": 41462,
+                "cid": 41460,
                 "glyph": "gmacron.a"
             },
             "U+1E22": {
@@ -34161,1439 +34179,1439 @@
                 "glyph": "deltalatin"
             },
             "U+1F00": {
-                "cid": 41871,
+                "cid": 41869,
                 "glyph": "alphalenis"
             },
             "U+1F01": {
-                "cid": 41873,
+                "cid": 41871,
                 "glyph": "alphaasper"
             },
             "U+1F02": {
-                "cid": 41878,
+                "cid": 41876,
                 "glyph": "alphalenisgrave"
             },
             "U+1F03": {
-                "cid": 41880,
+                "cid": 41878,
                 "glyph": "alphaaspergrave"
             },
             "U+1F04": {
-                "cid": 41881,
+                "cid": 41880,
                 "glyph": "alphalenisacute"
             },
             "U+1F05": {
-                "cid": 41883,
+                "cid": 41881,
                 "glyph": "alphaasperacute"
             },
             "U+1F06": {
-                "cid": 41884,
+                "cid": 41883,
                 "glyph": "alphalenistilde"
             },
             "U+1F07": {
-                "cid": 41887,
+                "cid": 41884,
                 "glyph": "alphaaspertilde"
             },
             "U+1F08": {
-                "cid": 41678,
+                "cid": 41677,
                 "glyph": "Alphalenis"
             },
             "U+1F09": {
-                "cid": 41680,
+                "cid": 41678,
                 "glyph": "Alphaasper"
             },
             "U+1F0A": {
-                "cid": 41687,
+                "cid": 41684,
                 "glyph": "Alphalenisgrave"
             },
             "U+1F0B": {
-                "cid": 41688,
+                "cid": 41687,
                 "glyph": "Alphaaspergrave"
             },
             "U+1F0C": {
-                "cid": 41689,
+                "cid": 41688,
                 "glyph": "Alphalenisacute"
             },
             "U+1F0D": {
-                "cid": 41691,
+                "cid": 41689,
                 "glyph": "Alphaasperacute"
             },
             "U+1F0E": {
-                "cid": 41693,
+                "cid": 41691,
                 "glyph": "Alphalenistilde"
             },
             "U+1F0F": {
-                "cid": 41696,
+                "cid": 41693,
                 "glyph": "Alphaaspertilde"
             },
             "U+1F10": {
-                "cid": 41894,
+                "cid": 41892,
                 "glyph": "epsilonlenis"
             },
             "U+1F11": {
-                "cid": 41895,
+                "cid": 41894,
                 "glyph": "epsilonasper"
             },
             "U+1F12": {
-                "cid": 41901,
+                "cid": 41899,
                 "glyph": "epsilonlenisgrave"
             },
             "U+1F13": {
-                "cid": 41905,
+                "cid": 41901,
                 "glyph": "epsilonaspergrave"
             },
             "U+1F14": {
-                "cid": 41907,
+                "cid": 41905,
                 "glyph": "epsilonlenisacute"
             },
             "U+1F15": {
-                "cid": 41908,
+                "cid": 41907,
                 "glyph": "epsilonasperacute"
             },
             "U+1F18": {
-                "cid": 41702,
+                "cid": 41699,
                 "glyph": "Epsilonlenis"
             },
             "U+1F19": {
-                "cid": 41703,
+                "cid": 41702,
                 "glyph": "Epsilonasper"
             },
             "U+1F1A": {
-                "cid": 41709,
+                "cid": 41707,
                 "glyph": "Epsilonlenisgrave"
             },
             "U+1F1B": {
-                "cid": 41710,
+                "cid": 41709,
                 "glyph": "Epsilonaspergrave"
             },
             "U+1F1C": {
-                "cid": 41711,
+                "cid": 41710,
                 "glyph": "Epsilonlenisacute"
             },
             "U+1F1D": {
-                "cid": 41714,
+                "cid": 41711,
                 "glyph": "Epsilonasperacute"
             },
             "U+1F20": {
-                "cid": 41909,
+                "cid": 41908,
                 "glyph": "etalenis"
             },
             "U+1F21": {
-                "cid": 41911,
+                "cid": 41909,
                 "glyph": "etaasper"
             },
             "U+1F22": {
-                "cid": 41915,
+                "cid": 41913,
                 "glyph": "etalenisgrave"
             },
             "U+1F23": {
-                "cid": 41920,
+                "cid": 41915,
                 "glyph": "etaaspergrave"
             },
             "U+1F24": {
-                "cid": 41921,
+                "cid": 41920,
                 "glyph": "etalenisacute"
             },
             "U+1F25": {
-                "cid": 41925,
+                "cid": 41921,
                 "glyph": "etaasperacute"
             },
             "U+1F26": {
-                "cid": 41929,
+                "cid": 41925,
                 "glyph": "etalenistilde"
             },
             "U+1F27": {
-                "cid": 41934,
+                "cid": 41929,
                 "glyph": "etaaspertilde"
             },
             "U+1F28": {
-                "cid": 41716,
+                "cid": 41714,
                 "glyph": "Etalenis"
             },
             "U+1F29": {
-                "cid": 41719,
+                "cid": 41716,
                 "glyph": "Etaasper"
             },
             "U+1F2A": {
-                "cid": 41724,
+                "cid": 41723,
                 "glyph": "Etalenisgrave"
             },
             "U+1F2B": {
-                "cid": 41725,
+                "cid": 41724,
                 "glyph": "Etaaspergrave"
             },
             "U+1F2C": {
-                "cid": 41728,
+                "cid": 41725,
                 "glyph": "Etalenisacute"
             },
             "U+1F2D": {
-                "cid": 41732,
+                "cid": 41728,
                 "glyph": "Etaasperacute"
             },
             "U+1F2E": {
-                "cid": 41733,
+                "cid": 41732,
                 "glyph": "Etalenistilde"
             },
             "U+1F2F": {
-                "cid": 41737,
+                "cid": 41733,
                 "glyph": "Etaaspertilde"
             },
             "U+1F30": {
-                "cid": 41939,
+                "cid": 41938,
                 "glyph": "iotalenis"
             },
             "U+1F31": {
-                "cid": 41941,
+                "cid": 41939,
                 "glyph": "iotaasper"
             },
             "U+1F32": {
-                "cid": 41949,
+                "cid": 41945,
                 "glyph": "iotalenisgrave"
             },
             "U+1F33": {
-                "cid": 41950,
+                "cid": 41949,
                 "glyph": "iotaaspergrave"
             },
             "U+1F34": {
-                "cid": 41952,
+                "cid": 41950,
                 "glyph": "iotalenisacute"
             },
             "U+1F35": {
-                "cid": 41955,
+                "cid": 41952,
                 "glyph": "iotaasperacute"
             },
             "U+1F36": {
-                "cid": 41957,
+                "cid": 41955,
                 "glyph": "iotalenistilde"
             },
             "U+1F37": {
-                "cid": 41958,
+                "cid": 41957,
                 "glyph": "iotaaspertilde"
             },
             "U+1F38": {
-                "cid": 41738,
+                "cid": 41737,
                 "glyph": "Iotalenis"
             },
             "U+1F39": {
-                "cid": 41739,
+                "cid": 41738,
                 "glyph": "Iotaasper"
             },
             "U+1F3A": {
-                "cid": 41744,
+                "cid": 41743,
                 "glyph": "Iotalenisgrave"
             },
             "U+1F3B": {
-                "cid": 41746,
+                "cid": 41744,
                 "glyph": "Iotaaspergrave"
             },
             "U+1F3C": {
-                "cid": 41747,
+                "cid": 41746,
                 "glyph": "Iotalenisacute"
             },
             "U+1F3D": {
-                "cid": 41750,
+                "cid": 41747,
                 "glyph": "Iotaasperacute"
             },
             "U+1F3E": {
-                "cid": 41752,
+                "cid": 41750,
                 "glyph": "Iotalenistilde"
             },
             "U+1F3F": {
-                "cid": 41753,
+                "cid": 41752,
                 "glyph": "Iotaaspertilde"
             },
             "U+1F40": {
-                "cid": 41969,
+                "cid": 41967,
                 "glyph": "omicronlenis"
             },
             "U+1F41": {
-                "cid": 41972,
+                "cid": 41969,
                 "glyph": "omicronasper"
             },
             "U+1F42": {
-                "cid": 41976,
+                "cid": 41974,
                 "glyph": "omicronlenisgrave"
             },
             "U+1F43": {
-                "cid": 41979,
+                "cid": 41976,
                 "glyph": "omicronaspergrave"
             },
             "U+1F44": {
-                "cid": 41982,
+                "cid": 41979,
                 "glyph": "omicronlenisacute"
             },
             "U+1F45": {
-                "cid": 41983,
+                "cid": 41982,
                 "glyph": "omicronasperacute"
             },
             "U+1F48": {
-                "cid": 41759,
+                "cid": 41757,
                 "glyph": "Omicronlenis"
             },
             "U+1F49": {
-                "cid": 41760,
+                "cid": 41759,
                 "glyph": "Omicronasper"
             },
             "U+1F4A": {
-                "cid": 41766,
+                "cid": 41764,
                 "glyph": "Omicronlenisgrave"
             },
             "U+1F4B": {
-                "cid": 41768,
+                "cid": 41766,
                 "glyph": "Omicronaspergrave"
             },
             "U+1F4C": {
-                "cid": 41770,
+                "cid": 41768,
                 "glyph": "Omicronlenisacute"
             },
             "U+1F4D": {
-                "cid": 41772,
+                "cid": 41770,
                 "glyph": "Omicronasperacute"
             },
             "U+1F50": {
-                "cid": 41990,
+                "cid": 41987,
                 "glyph": "upsilonlenis"
             },
             "U+1F51": {
-                "cid": 41993,
+                "cid": 41990,
                 "glyph": "upsilonasper"
             },
             "U+1F52": {
-                "cid": 41999,
+                "cid": 41998,
                 "glyph": "upsilonlenisgrave"
             },
             "U+1F53": {
-                "cid": 42002,
+                "cid": 41999,
                 "glyph": "upsilonaspergrave"
             },
             "U+1F54": {
-                "cid": 42003,
+                "cid": 42002,
                 "glyph": "upsilonlenisacute"
             },
             "U+1F55": {
-                "cid": 42004,
+                "cid": 42003,
                 "glyph": "upsilonasperacute"
             },
             "U+1F56": {
-                "cid": 42006,
+                "cid": 42004,
                 "glyph": "upsilonlenistilde"
             },
             "U+1F57": {
-                "cid": 42008,
+                "cid": 42006,
                 "glyph": "upsilonaspertilde"
             },
             "U+1F59": {
-                "cid": 41778,
+                "cid": 41774,
                 "glyph": "Upsilonasper"
             },
             "U+1F5B": {
-                "cid": 41785,
+                "cid": 41781,
                 "glyph": "Upsilonaspergrave"
             },
             "U+1F5D": {
-                "cid": 41786,
+                "cid": 41785,
                 "glyph": "Upsilonasperacute"
             },
             "U+1F5F": {
-                "cid": 41789,
+                "cid": 41786,
                 "glyph": "Upsilonaspertilde"
             },
             "U+1F60": {
-                "cid": 42020,
+                "cid": 42019,
                 "glyph": "omegalenis"
             },
             "U+1F61": {
-                "cid": 42022,
+                "cid": 42020,
                 "glyph": "omegaasper"
             },
             "U+1F62": {
-                "cid": 42027,
+                "cid": 42024,
                 "glyph": "omegalenisgrave"
             },
             "U+1F63": {
-                "cid": 42030,
+                "cid": 42027,
                 "glyph": "omegaaspergrave"
             },
             "U+1F64": {
-                "cid": 42031,
+                "cid": 42030,
                 "glyph": "omegalenisacute"
             },
             "U+1F65": {
-                "cid": 42033,
+                "cid": 42031,
                 "glyph": "omegaasperacute"
             },
             "U+1F66": {
-                "cid": 42034,
+                "cid": 42033,
                 "glyph": "omegalenistilde"
             },
             "U+1F67": {
-                "cid": 42037,
+                "cid": 42034,
                 "glyph": "omegaaspertilde"
             },
             "U+1F68": {
-                "cid": 41793,
+                "cid": 41792,
                 "glyph": "Omegalenis"
             },
             "U+1F69": {
-                "cid": 41795,
+                "cid": 41793,
                 "glyph": "Omegaasper"
             },
             "U+1F6A": {
-                "cid": 41802,
+                "cid": 41800,
                 "glyph": "Omegalenisgrave"
             },
             "U+1F6B": {
-                "cid": 41805,
+                "cid": 41802,
                 "glyph": "Omegaaspergrave"
             },
             "U+1F6C": {
-                "cid": 41807,
+                "cid": 41805,
                 "glyph": "Omegalenisacute"
             },
             "U+1F6D": {
-                "cid": 41808,
+                "cid": 41807,
                 "glyph": "Omegaasperacute"
             },
             "U+1F6E": {
-                "cid": 41809,
+                "cid": 41808,
                 "glyph": "Omegalenistilde"
             },
             "U+1F6F": {
-                "cid": 41813,
+                "cid": 41809,
                 "glyph": "Omegaaspertilde"
             },
             "U+1F70": {
-                "cid": 41875,
+                "cid": 41873,
                 "glyph": "alphagrave"
             },
             "U+1F71": {
-                "cid": 41876,
+                "cid": 41875,
                 "glyph": "alphaacute"
             },
             "U+1F72": {
-                "cid": 41896,
+                "cid": 41895,
                 "glyph": "epsilongrave"
             },
             "U+1F73": {
-                "cid": 41899,
+                "cid": 41896,
                 "glyph": "epsilonacute"
             },
             "U+1F74": {
-                "cid": 41912,
+                "cid": 41911,
                 "glyph": "etagrave"
             },
             "U+1F75": {
-                "cid": 41913,
+                "cid": 41912,
                 "glyph": "etaacute"
             },
             "U+1F76": {
-                "cid": 41942,
+                "cid": 41941,
                 "glyph": "iotagrave"
             },
             "U+1F77": {
-                "cid": 41945,
+                "cid": 41942,
                 "glyph": "iotaacute"
             },
             "U+1F78": {
-                "cid": 41973,
+                "cid": 41972,
                 "glyph": "omicrongrave"
             },
             "U+1F79": {
-                "cid": 41974,
+                "cid": 41973,
                 "glyph": "omicronacute"
             },
             "U+1F7A": {
-                "cid": 41996,
+                "cid": 41993,
                 "glyph": "upsilongrave"
             },
             "U+1F7B": {
-                "cid": 41998,
+                "cid": 41996,
                 "glyph": "upsilonacute"
             },
             "U+1F7C": {
-                "cid": 42023,
+                "cid": 42022,
                 "glyph": "omegagrave"
             },
             "U+1F7D": {
-                "cid": 42024,
+                "cid": 42023,
                 "glyph": "omegaacute"
             },
             "U+1F80": {
-                "cid": 42043,
+                "cid": 42041,
                 "glyph": "alphaiotasublenis"
             },
             "U+1F81": {
-                "cid": 42046,
+                "cid": 42043,
                 "glyph": "alphaiotasubasper"
             },
             "U+1F82": {
-                "cid": 42052,
+                "cid": 42049,
                 "glyph": "alphaiotasublenisgrave"
             },
             "U+1F83": {
-                "cid": 42053,
+                "cid": 42052,
                 "glyph": "alphaiotasubaspergrave"
             },
             "U+1F84": {
-                "cid": 42056,
+                "cid": 42053,
                 "glyph": "alphaiotasublenisacute"
             },
             "U+1F85": {
-                "cid": 42059,
+                "cid": 42056,
                 "glyph": "alphaiotasubasperacute"
             },
             "U+1F86": {
-                "cid": 42060,
+                "cid": 42059,
                 "glyph": "alphaiotasublenistilde"
             },
             "U+1F87": {
-                "cid": 42062,
+                "cid": 42060,
                 "glyph": "alphaiotasubaspertilde"
             },
             "U+1F88": {
-                "cid": 41817,
+                "cid": 41816,
                 "glyph": "Alphaiotasublenis"
             },
             "U+1F89": {
-                "cid": 41818,
+                "cid": 41817,
                 "glyph": "Alphaiotasubasper"
             },
             "U+1F8A": {
-                "cid": 41820,
+                "cid": 41818,
                 "glyph": "Alphaiotasublenisgrave"
             },
             "U+1F8B": {
-                "cid": 41827,
+                "cid": 41820,
                 "glyph": "Alphaiotasubaspergrave"
             },
             "U+1F8C": {
-                "cid": 41830,
+                "cid": 41827,
                 "glyph": "Alphaiotasublenisacute"
             },
             "U+1F8D": {
-                "cid": 41831,
+                "cid": 41830,
                 "glyph": "Alphaiotasubasperacute"
             },
             "U+1F8E": {
-                "cid": 41834,
+                "cid": 41831,
                 "glyph": "Alphaiotasublenistilde"
             },
             "U+1F8F": {
-                "cid": 41836,
+                "cid": 41834,
                 "glyph": "Alphaiotasubaspertilde"
             },
             "U+1F90": {
-                "cid": 42066,
+                "cid": 42065,
                 "glyph": "etaiotasublenis"
             },
             "U+1F91": {
-                "cid": 42073,
+                "cid": 42066,
                 "glyph": "etaiotasubasper"
             },
             "U+1F92": {
-                "cid": 42076,
+                "cid": 42075,
                 "glyph": "etaiotasublenisgrave"
             },
             "U+1F93": {
-                "cid": 42078,
+                "cid": 42076,
                 "glyph": "etaiotasubaspergrave"
             },
             "U+1F94": {
-                "cid": 42080,
+                "cid": 42078,
                 "glyph": "etaiotasublenisacute"
             },
             "U+1F95": {
-                "cid": 42083,
+                "cid": 42080,
                 "glyph": "etaiotasubasperacute"
             },
             "U+1F96": {
-                "cid": 42084,
+                "cid": 42083,
                 "glyph": "etaiotasublenistilde"
             },
             "U+1F97": {
-                "cid": 42087,
+                "cid": 42084,
                 "glyph": "etaiotasubaspertilde"
             },
             "U+1F98": {
-                "cid": 41840,
+                "cid": 41839,
                 "glyph": "Etaiotasublenis"
             },
             "U+1F99": {
-                "cid": 41841,
+                "cid": 41840,
                 "glyph": "Etaiotasubasper"
             },
             "U+1F9A": {
-                "cid": 41842,
+                "cid": 41841,
                 "glyph": "Etaiotasublenisgrave"
             },
             "U+1F9B": {
-                "cid": 41845,
+                "cid": 41842,
                 "glyph": "Etaiotasubaspergrave"
             },
             "U+1F9C": {
-                "cid": 41847,
+                "cid": 41845,
                 "glyph": "Etaiotasublenisacute"
             },
             "U+1F9D": {
-                "cid": 41848,
+                "cid": 41847,
                 "glyph": "Etaiotasubasperacute"
             },
             "U+1F9E": {
-                "cid": 41851,
+                "cid": 41848,
                 "glyph": "Etaiotasublenistilde"
             },
             "U+1F9F": {
-                "cid": 41852,
+                "cid": 41851,
                 "glyph": "Etaiotasubaspertilde"
             },
             "U+1FA0": {
-                "cid": 42091,
+                "cid": 42090,
                 "glyph": "omegaiotasublenis"
             },
             "U+1FA1": {
-                "cid": 42094,
+                "cid": 42091,
                 "glyph": "omegaiotasubasper"
             },
             "U+1FA2": {
-                "cid": 42099,
+                "cid": 42096,
                 "glyph": "omegaiotasublenisgrave"
             },
             "U+1FA3": {
-                "cid": 42101,
+                "cid": 42099,
                 "glyph": "omegaiotasubaspergrave"
             },
             "U+1FA4": {
-                "cid": 42104,
+                "cid": 42101,
                 "glyph": "omegaiotasublenisacute"
             },
             "U+1FA5": {
-                "cid": 42106,
+                "cid": 42104,
                 "glyph": "omegaiotasubasperacute"
             },
             "U+1FA6": {
-                "cid": 42107,
+                "cid": 42106,
                 "glyph": "omegaiotasublenistilde"
             },
             "U+1FA7": {
-                "cid": 42108,
+                "cid": 42107,
                 "glyph": "omegaiotasubaspertilde"
             },
             "U+1FA8": {
-                "cid": 41857,
+                "cid": 41853,
                 "glyph": "Omegaiotasublenis"
             },
             "U+1FA9": {
-                "cid": 41858,
+                "cid": 41857,
                 "glyph": "Omegaiotasubasper"
             },
             "U+1FAA": {
-                "cid": 41860,
+                "cid": 41858,
                 "glyph": "Omegaiotasublenisgrave"
             },
             "U+1FAB": {
-                "cid": 41861,
+                "cid": 41860,
                 "glyph": "Omegaiotasubaspergrave"
             },
             "U+1FAC": {
-                "cid": 41864,
+                "cid": 41861,
                 "glyph": "Omegaiotasublenisacute"
             },
             "U+1FAD": {
-                "cid": 41865,
+                "cid": 41864,
                 "glyph": "Omegaiotasubasperacute"
             },
             "U+1FAE": {
-                "cid": 41866,
+                "cid": 41865,
                 "glyph": "Omegaiotasublenistilde"
             },
             "U+1FAF": {
-                "cid": 41869,
+                "cid": 41866,
                 "glyph": "Omegaiotasubaspertilde"
             },
             "U+1FB0": {
-                "cid": 41888,
+                "cid": 41887,
                 "glyph": "alphabreve"
             },
             "U+1FB1": {
-                "cid": 41890,
+                "cid": 41888,
                 "glyph": "alphamacron"
             },
             "U+1FB2": {
-                "cid": 42048,
+                "cid": 42046,
                 "glyph": "alphaiotasubgrave"
             },
             "U+1FB3": {
-                "cid": 42041,
+                "cid": 42038,
                 "glyph": "alphaiotasub"
             },
             "U+1FB4": {
-                "cid": 42049,
+                "cid": 42048,
                 "glyph": "alphaiotasubacute"
             },
             "U+1FB6": {
-                "cid": 41892,
+                "cid": 41890,
                 "glyph": "alphatilde"
             },
             "U+1FB7": {
-                "cid": 42063,
+                "cid": 42062,
                 "glyph": "alphaiotasubtilde"
             },
             "U+1FB8": {
-                "cid": 41697,
+                "cid": 41696,
                 "glyph": "Alphabreve"
             },
             "U+1FB9": {
-                "cid": 41699,
+                "cid": 41697,
                 "glyph": "Alphamacron"
             },
             "U+1FBA": {
-                "cid": 41682,
+                "cid": 41680,
                 "glyph": "Alphagrave"
             },
             "U+1FBB": {
-                "cid": 41684,
+                "cid": 41682,
                 "glyph": "Alphaacute"
             },
             "U+1FBC": {
-                "cid": 41816,
+                "cid": 41813,
                 "glyph": "Alphaiotasub"
             },
             "U+1FBD": {
-                "cid": 42134,
+                "cid": 42130,
                 "glyph": "lenis"
             },
             "U+1FBE": {
-                "cid": 42130,
+                "cid": 42129,
                 "glyph": "iotaadscript"
             },
             "U+1FBF": {
-                "cid": 42135,
+                "cid": 42134,
                 "glyph": "psili"
             },
             "U+1FC0": {
-                "cid": 42151,
+                "cid": 42150,
                 "glyph": "perispomeni"
             },
             "U+1FC1": {
-                "cid": 42158,
+                "cid": 42155,
                 "glyph": "dialytikatilde"
             },
             "U+1FC2": {
-                "cid": 42074,
+                "cid": 42073,
                 "glyph": "etaiotasubgrave"
             },
             "U+1FC3": {
-                "cid": 42065,
+                "cid": 42063,
                 "glyph": "etaiotasub"
             },
             "U+1FC4": {
-                "cid": 42075,
+                "cid": 42074,
                 "glyph": "etaiotasubacute"
             },
             "U+1FC6": {
-                "cid": 41938,
+                "cid": 41934,
                 "glyph": "etatilde"
             },
             "U+1FC7": {
-                "cid": 42088,
+                "cid": 42087,
                 "glyph": "etaiotasubtilde"
             },
             "U+1FC8": {
-                "cid": 41706,
+                "cid": 41703,
                 "glyph": "Epsilongrave"
             },
             "U+1FC9": {
-                "cid": 41707,
+                "cid": 41706,
                 "glyph": "Epsilonacute"
             },
             "U+1FCA": {
-                "cid": 41722,
+                "cid": 41719,
                 "glyph": "Etagrave"
             },
             "U+1FCB": {
-                "cid": 41723,
+                "cid": 41722,
                 "glyph": "Etaacute"
             },
             "U+1FCC": {
-                "cid": 41839,
+                "cid": 41836,
                 "glyph": "Etaiotasub"
             },
             "U+1FCD": {
-                "cid": 42141,
+                "cid": 42139,
                 "glyph": "lenisgrave"
             },
             "U+1FCE": {
-                "cid": 42145,
+                "cid": 42144,
                 "glyph": "lenisacute"
             },
             "U+1FCF": {
-                "cid": 42148,
+                "cid": 42147,
                 "glyph": "lenistilde"
             },
             "U+1FD0": {
-                "cid": 41959,
+                "cid": 41958,
                 "glyph": "iotabreve"
             },
             "U+1FD1": {
-                "cid": 41962,
+                "cid": 41959,
                 "glyph": "iotamacron"
             },
             "U+1FD2": {
-                "cid": 41964,
+                "cid": 41963,
                 "glyph": "iotadieresisgrave"
             },
             "U+1FD3": {
-                "cid": 41966,
+                "cid": 41964,
                 "glyph": "iotadieresisacute"
             },
             "U+1FD6": {
-                "cid": 41963,
+                "cid": 41962,
                 "glyph": "iotatilde"
             },
             "U+1FD7": {
-                "cid": 41967,
+                "cid": 41966,
                 "glyph": "iotadieresistilde"
             },
             "U+1FD8": {
-                "cid": 41754,
+                "cid": 41753,
                 "glyph": "Iotabreve"
             },
             "U+1FD9": {
-                "cid": 41757,
+                "cid": 41754,
                 "glyph": "Iotamacron"
             },
             "U+1FDA": {
-                "cid": 41740,
+                "cid": 41739,
                 "glyph": "Iotagrave"
             },
             "U+1FDB": {
-                "cid": 41743,
+                "cid": 41740,
                 "glyph": "Iotaacute"
             },
             "U+1FDD": {
-                "cid": 42144,
+                "cid": 42141,
                 "glyph": "aspergrave"
             },
             "U+1FDE": {
-                "cid": 42147,
+                "cid": 42145,
                 "glyph": "asperacute"
             },
             "U+1FDF": {
-                "cid": 42150,
+                "cid": 42148,
                 "glyph": "aspertilde"
             },
             "U+1FE0": {
-                "cid": 42011,
+                "cid": 42010,
                 "glyph": "upsilonbreve"
             },
             "U+1FE1": {
-                "cid": 42014,
+                "cid": 42011,
                 "glyph": "upsilonmacron"
             },
             "U+1FE2": {
-                "cid": 42016,
+                "cid": 42014,
                 "glyph": "upsilondieresisgrave"
             },
             "U+1FE3": {
-                "cid": 42017,
+                "cid": 42016,
                 "glyph": "upsilondieresisacute"
             },
             "U+1FE4": {
-                "cid": 41986,
+                "cid": 41983,
                 "glyph": "rholenis"
             },
             "U+1FE5": {
-                "cid": 41987,
+                "cid": 41986,
                 "glyph": "rhoasper"
             },
             "U+1FE6": {
-                "cid": 42010,
+                "cid": 42008,
                 "glyph": "upsilontilde"
             },
             "U+1FE7": {
-                "cid": 42019,
+                "cid": 42017,
                 "glyph": "upsilondieresistilde"
             },
             "U+1FE8": {
-                "cid": 41790,
+                "cid": 41789,
                 "glyph": "Upsilonbreve"
             },
             "U+1FE9": {
-                "cid": 41792,
+                "cid": 41790,
                 "glyph": "Upsilonmacron"
             },
             "U+1FEA": {
-                "cid": 41780,
+                "cid": 41778,
                 "glyph": "Upsilongrave"
             },
             "U+1FEB": {
-                "cid": 41781,
+                "cid": 41780,
                 "glyph": "Upsilonacute"
             },
             "U+1FEC": {
-                "cid": 41774,
+                "cid": 41772,
                 "glyph": "Rhoasper"
             },
             "U+1FED": {
-                "cid": 42153,
+                "cid": 42151,
                 "glyph": "dialytikagrave"
             },
             "U+1FEE": {
-                "cid": 42155,
+                "cid": 42153,
                 "glyph": "dialytikaacute"
             },
             "U+1FEF": {
-                "cid": 42138,
+                "cid": 42137,
                 "glyph": "varia"
             },
             "U+1FF2": {
-                "cid": 42095,
+                "cid": 42094,
                 "glyph": "omegaiotasubgrave"
             },
             "U+1FF3": {
-                "cid": 42090,
+                "cid": 42088,
                 "glyph": "omegaiotasub"
             },
             "U+1FF4": {
-                "cid": 42096,
+                "cid": 42095,
                 "glyph": "omegaiotasubacute"
             },
             "U+1FF6": {
-                "cid": 42038,
+                "cid": 42037,
                 "glyph": "omegatilde"
             },
             "U+1FF7": {
-                "cid": 42110,
+                "cid": 42108,
                 "glyph": "omegaiotasubtilde"
             },
             "U+1FF8": {
-                "cid": 41761,
+                "cid": 41760,
                 "glyph": "Omicrongrave"
             },
             "U+1FF9": {
-                "cid": 41764,
+                "cid": 41761,
                 "glyph": "Omicronacute"
             },
             "U+1FFA": {
-                "cid": 41797,
+                "cid": 41795,
                 "glyph": "Omegagrave"
             },
             "U+1FFB": {
-                "cid": 41800,
+                "cid": 41797,
                 "glyph": "Omegaacute"
             },
             "U+1FFC": {
-                "cid": 41853,
+                "cid": 41852,
                 "glyph": "Omegaiotasub"
             },
             "U+1FFD": {
-                "cid": 42139,
+                "cid": 42138,
                 "glyph": "oxia"
             },
             "U+1FFE": {
-                "cid": 42137,
+                "cid": 42135,
                 "glyph": "asper"
             },
             "U+2007": {
-                "cid": 45420,
+                "cid": 45418,
                 "glyph": "figurespace"
             },
             "U+2009": {
-                "cid": 45422,
+                "cid": 45420,
                 "glyph": "thinspace"
             },
             "U+200A": {
-                "cid": 45423,
+                "cid": 45422,
                 "glyph": "hairspace"
             },
             "U+200B": {
-                "cid": 45426,
+                "cid": 45423,
                 "glyph": "ZWS"
             },
             "U+2017": {
-                "cid": 43194,
+                "cid": 43189,
                 "glyph": "underscoredbl"
             },
             "U+201B": {
-                "cid": 43084,
+                "cid": 43081,
                 "glyph": "quotereversed"
             },
             "U+2023": {
-                "cid": 43155,
+                "cid": 43152,
                 "glyph": "bullettriangle"
             },
             "U+202F": {
-                "cid": 45428,
+                "cid": 45426,
                 "glyph": "NNBS"
             },
             "U+2031": {
-                "cid": 44725,
+                "cid": 44724,
                 "glyph": "pertenthousand"
             },
             "U+203D": {
-                "cid": 43242,
+                "cid": 43241,
                 "glyph": "interrobang"
             },
             "U+203E": {
-                "cid": 43195,
+                "cid": 43194,
                 "glyph": "overline"
             },
             "U+203F": {
-                "cid": 43197,
+                "cid": 43195,
                 "glyph": "undertie"
             },
             "U+2044": {
-                "cid": 44715,
+                "cid": 44714,
                 "glyph": "fraction"
             },
             "U+204A": {
-                "cid": 41274,
+                "cid": 41271,
                 "glyph": "ettironian"
             },
             "U+2070": {
-                "cid": 44397,
+                "cid": 44396,
                 "glyph": "zero.sups"
             },
             "U+2071": {
-                "cid": 44556,
+                "cid": 44554,
                 "glyph": "i.sups"
             },
             "U+2075": {
-                "cid": 44405,
+                "cid": 44404,
                 "glyph": "five.sups"
             },
             "U+2076": {
-                "cid": 44407,
+                "cid": 44405,
                 "glyph": "six.sups"
             },
             "U+2077": {
-                "cid": 44408,
+                "cid": 44407,
                 "glyph": "seven.sups"
             },
             "U+2078": {
-                "cid": 44410,
+                "cid": 44408,
                 "glyph": "eight.sups"
             },
             "U+2079": {
-                "cid": 44411,
+                "cid": 44410,
                 "glyph": "nine.sups"
             },
             "U+207A": {
-                "cid": 44414,
+                "cid": 44411,
                 "glyph": "plus.sups"
             },
             "U+207B": {
-                "cid": 44415,
+                "cid": 44414,
                 "glyph": "minus.sups"
             },
             "U+207C": {
-                "cid": 44418,
+                "cid": 44415,
                 "glyph": "equal.sups"
             },
             "U+207D": {
-                "cid": 44421,
+                "cid": 44418,
                 "glyph": "parenleft.sups"
             },
             "U+207E": {
-                "cid": 44422,
+                "cid": 44421,
                 "glyph": "parenright.sups"
             },
             "U+207F": {
-                "cid": 44565,
+                "cid": 44562,
                 "glyph": "n.sups"
             },
             "U+2080": {
-                "cid": 44427,
+                "cid": 44425,
                 "glyph": "zero.subs"
             },
             "U+2081": {
-                "cid": 44428,
+                "cid": 44427,
                 "glyph": "one.subs"
             },
             "U+2082": {
-                "cid": 44430,
+                "cid": 44428,
                 "glyph": "two.subs"
             },
             "U+2083": {
-                "cid": 44431,
+                "cid": 44430,
                 "glyph": "three.subs"
             },
             "U+2084": {
-                "cid": 44433,
+                "cid": 44431,
                 "glyph": "four.subs"
             },
             "U+2085": {
-                "cid": 44434,
+                "cid": 44433,
                 "glyph": "five.subs"
             },
             "U+2086": {
-                "cid": 44436,
+                "cid": 44434,
                 "glyph": "six.subs"
             },
             "U+2087": {
-                "cid": 44437,
+                "cid": 44436,
                 "glyph": "seven.subs"
             },
             "U+2088": {
-                "cid": 44438,
+                "cid": 44437,
                 "glyph": "eight.subs"
             },
             "U+2089": {
-                "cid": 44440,
+                "cid": 44438,
                 "glyph": "nine.subs"
             },
             "U+208A": {
-                "cid": 44441,
+                "cid": 44440,
                 "glyph": "plus.subs"
             },
             "U+208B": {
-                "cid": 44443,
+                "cid": 44441,
                 "glyph": "minus.subs"
             },
             "U+208C": {
-                "cid": 44444,
+                "cid": 44443,
                 "glyph": "equal.subs"
             },
             "U+208D": {
-                "cid": 44446,
+                "cid": 44444,
                 "glyph": "parenleft.subs"
             },
             "U+208E": {
-                "cid": 44447,
+                "cid": 44446,
                 "glyph": "parenright.subs"
             },
             "U+20A1": {
-                "cid": 44632,
+                "cid": 44630,
                 "glyph": "colonmonetary"
             },
             "U+20A3": {
-                "cid": 44714,
+                "cid": 44713,
                 "glyph": "franc"
             },
             "U+20A4": {
-                "cid": 44634,
+                "cid": 44632,
                 "glyph": "lira"
             },
             "U+20A6": {
-                "cid": 44635,
+                "cid": 44634,
                 "glyph": "naira"
             },
             "U+20A7": {
-                "cid": 44637,
+                "cid": 44635,
                 "glyph": "peseta"
             },
             "U+20AE": {
-                "cid": 44709,
+                "cid": 44708,
                 "glyph": "tugrik"
             },
             "U+20B1": {
-                "cid": 44642,
+                "cid": 44640,
                 "glyph": "peso"
             },
             "U+20B2": {
-                "cid": 44644,
+                "cid": 44642,
                 "glyph": "guarani"
             },
             "U+20B4": {
-                "cid": 44701,
+                "cid": 44644,
                 "glyph": "hryvnia"
             },
             "U+20B5": {
-                "cid": 44705,
+                "cid": 44701,
                 "glyph": "cedi"
             },
             "U+20B8": {
-                "cid": 44711,
+                "cid": 44709,
                 "glyph": "tenge"
             },
             "U+20B9": {
-                "cid": 44706,
+                "cid": 44705,
                 "glyph": "rupeeindian"
             },
             "U+20BA": {
-                "cid": 44708,
+                "cid": 44706,
                 "glyph": "liraturkish"
             },
             "U+20BD": {
-                "cid": 44713,
+                "cid": 44711,
                 "glyph": "ruble"
             },
             "U+2117": {
-                "cid": 43277,
+                "cid": 43274,
                 "glyph": "soundcopyright"
             },
             "U+211E": {
-                "cid": 45006,
+                "cid": 45004,
                 "glyph": "prescription"
             },
             "U+2120": {
-                "cid": 43285,
+                "cid": 43283,
                 "glyph": "servicemark"
             },
             "U+2150": {
-                "cid": 44745,
+                "cid": 44743,
                 "glyph": "oneseventh"
             },
             "U+2151": {
-                "cid": 44764,
+                "cid": 44756,
                 "glyph": "oneninth"
             },
             "U+2152": {
-                "cid": 44767,
+                "cid": 44764,
                 "glyph": "onetenth"
             },
             "U+2153": {
-                "cid": 44732,
+                "cid": 44730,
                 "glyph": "onethird"
             },
             "U+2154": {
-                "cid": 44734,
+                "cid": 44732,
                 "glyph": "twothirds"
             },
             "U+2155": {
-                "cid": 44735,
+                "cid": 44734,
                 "glyph": "onefifth"
             },
             "U+2156": {
-                "cid": 44736,
+                "cid": 44735,
                 "glyph": "twofifths"
             },
             "U+2157": {
-                "cid": 44737,
+                "cid": 44736,
                 "glyph": "threefifths"
             },
             "U+2158": {
-                "cid": 44739,
+                "cid": 44737,
                 "glyph": "fourfifths"
             },
             "U+2159": {
-                "cid": 44742,
+                "cid": 44739,
                 "glyph": "onesixth"
             },
             "U+215A": {
-                "cid": 44743,
+                "cid": 44742,
                 "glyph": "fivesixths"
             },
             "U+215B": {
-                "cid": 44747,
+                "cid": 44745,
                 "glyph": "oneeighth"
             },
             "U+215C": {
-                "cid": 44751,
+                "cid": 44747,
                 "glyph": "threeeighths"
             },
             "U+215D": {
-                "cid": 44754,
+                "cid": 44751,
                 "glyph": "fiveeighths"
             },
             "U+215E": {
-                "cid": 44756,
+                "cid": 44754,
                 "glyph": "seveneighths"
             },
             "U+2189": {
-                "cid": 44772,
+                "cid": 44767,
                 "glyph": "zerothirds"
             },
             "U+21A8": {
-                "cid": 44920,
+                "cid": 44916,
                 "glyph": "arrowupdnbse"
             },
             "U+21D1": {
-                "cid": 44907,
+                "cid": 44905,
                 "glyph": "arrowdblup"
             },
             "U+21D3": {
-                "cid": 44913,
+                "cid": 44911,
                 "glyph": "arrowdbldown"
             },
             "U+2219": {
-                "cid": 44792,
+                "cid": 44788,
                 "glyph": "bulletoperator"
             },
             "U+2302": {
-                "cid": 45014,
+                "cid": 45011,
                 "glyph": "house"
             },
             "U+2303": {
-                "cid": 45418,
+                "cid": 45416,
                 "glyph": "control"
             },
             "U+2310": {
-                "cid": 44834,
+                "cid": 44830,
                 "glyph": "revlogicalnot"
             },
             "U+231C": {
-                "cid": 43245,
+                "cid": 43244,
                 "glyph": "ceilingleft"
             },
             "U+231D": {
-                "cid": 43246,
+                "cid": 43245,
                 "glyph": "ceilingright"
             },
             "U+231E": {
-                "cid": 43252,
+                "cid": 43246,
                 "glyph": "floorleft"
             },
             "U+231F": {
-                "cid": 43256,
+                "cid": 43252,
                 "glyph": "floorright"
             },
             "U+2320": {
-                "cid": 44863,
+                "cid": 44861,
                 "glyph": "integraltp"
             },
             "U+2321": {
-                "cid": 44864,
+                "cid": 44863,
                 "glyph": "integralbt"
             },
             "U+2325": {
-                "cid": 45410,
+                "cid": 45409,
                 "glyph": "option"
             },
             "U+2326": {
-                "cid": 45412,
+                "cid": 45410,
                 "glyph": "deleteright"
             },
             "U+232B": {
-                "cid": 45414,
+                "cid": 45412,
                 "glyph": "delete"
             },
             "U+25AC": {
-                "cid": 43188,
+                "cid": 43187,
                 "glyph": "filledrect"
             },
             "U+25B4": {
-                "cid": 43167,
+                "cid": 43165,
                 "glyph": "trianglesmallupblack"
             },
             "U+25B5": {
-                "cid": 43172,
+                "cid": 43167,
                 "glyph": "trianglesmallupwhite"
             },
             "U+25B8": {
-                "cid": 43174,
+                "cid": 43172,
                 "glyph": "trianglesmallrightblack"
             },
             "U+25B9": {
-                "cid": 43176,
+                "cid": 43174,
                 "glyph": "trianglesmallrightwhite"
             },
             "U+25BA": {
-                "cid": 44951,
+                "cid": 44950,
                 "glyph": "pointerblackright"
             },
             "U+25BE": {
-                "cid": 43178,
+                "cid": 43176,
                 "glyph": "trianglesmalldownblack"
             },
             "U+25BF": {
-                "cid": 43180,
+                "cid": 43178,
                 "glyph": "trianglesmalldownwhite"
             },
             "U+25C2": {
-                "cid": 43183,
+                "cid": 43180,
                 "glyph": "trianglesmallleftblack"
             },
             "U+25C3": {
-                "cid": 43184,
+                "cid": 43183,
                 "glyph": "trianglesmallleftwhite"
             },
             "U+25C4": {
-                "cid": 44954,
+                "cid": 44951,
                 "glyph": "pointerblackleft"
             },
             "U+25D8": {
-                "cid": 43187,
+                "cid": 43184,
                 "glyph": "invbullet"
             },
             "U+25D9": {
-                "cid": 44956,
+                "cid": 44954,
                 "glyph": "invcircle"
             },
             "U+2610": {
-                "cid": 44959,
+                "cid": 44958,
                 "glyph": "checkbox"
             },
             "U+2611": {
-                "cid": 44963,
+                "cid": 44959,
                 "glyph": "checkedbox"
             },
             "U+2615": {
-                "cid": 44993,
+                "cid": 44991,
                 "glyph": "coffee"
             },
             "U+263A": {
-                "cid": 44987,
+                "cid": 44985,
                 "glyph": "smileface"
             },
             "U+263B": {
-                "cid": 44990,
+                "cid": 44987,
                 "glyph": "invsmileface"
             },
             "U+263C": {
-                "cid": 45009,
+                "cid": 45007,
                 "glyph": "sun"
             },
             "U+263F": {
-                "cid": 44998,
+                "cid": 44997,
                 "glyph": "mercury"
             },
             "U+2714": {
-                "cid": 44968,
+                "cid": 44967,
                 "glyph": "checkheavy"
             },
             "U+2717": {
-                "cid": 44969,
+                "cid": 44968,
                 "glyph": "xballot"
             },
             "U+2718": {
-                "cid": 44971,
+                "cid": 44969,
                 "glyph": "xballotheavy"
             },
             "U+2752": {
-                "cid": 44932,
+                "cid": 44929,
                 "glyph": "squareshadow"
             },
             "U+275B": {
-                "cid": 43090,
+                "cid": 43084,
                 "glyph": "quoteleftheavy"
             },
             "U+275C": {
-                "cid": 43092,
+                "cid": 43090,
                 "glyph": "quoterightheavy"
             },
             "U+275D": {
-                "cid": 43100,
+                "cid": 43092,
                 "glyph": "quotedblleftheavy"
             },
             "U+275E": {
-                "cid": 43101,
+                "cid": 43100,
                 "glyph": "quotedblrightheavy"
             },
             "U+275F": {
-                "cid": 43103,
+                "cid": 43101,
                 "glyph": "quotesinglbaseheavy"
             },
             "U+2760": {
-                "cid": 43104,
+                "cid": 43103,
                 "glyph": "quotedblbaseheavy"
             },
             "U+2764": {
-                "cid": 44991,
+                "cid": 44990,
                 "glyph": "heartblackheavy"
             },
             "U+27E6": {
-                "cid": 43257,
+                "cid": 43256,
                 "glyph": "bracketleftwhite"
             },
             "U+27E7": {
-                "cid": 43259,
+                "cid": 43257,
                 "glyph": "bracketrightwhite"
             },
             "U+27E8": {
-                "cid": 43261,
+                "cid": 43259,
                 "glyph": "bracketangleleft"
             },
             "U+27E9": {
-                "cid": 43262,
+                "cid": 43261,
                 "glyph": "bracketangleright"
             },
             "U+2C60": {
@@ -35617,39 +35635,39 @@
                 "glyph": "tstroke"
             },
             "U+2C71": {
-                "cid": 41226,
+                "cid": 41219,
                 "glyph": "vhookright"
             },
             "U+2C7D": {
-                "cid": 44537,
+                "cid": 44535,
                 "glyph": "V.sups"
             },
             "U+2E18": {
-                "cid": 43244,
+                "cid": 43242,
                 "glyph": "interrobangdown"
             },
             "U+2E22": {
-                "cid": 43265,
+                "cid": 43262,
                 "glyph": "brackhalftopleft"
             },
             "U+2E23": {
-                "cid": 43266,
+                "cid": 43265,
                 "glyph": "brackhalftopright"
             },
             "U+2E24": {
-                "cid": 43267,
+                "cid": 43266,
                 "glyph": "brackhalfbotleft"
             },
             "U+2E25": {
-                "cid": 43270,
+                "cid": 43267,
                 "glyph": "brackhalfbotright"
             },
             "U+2E52": {
-                "cid": 41276,
+                "cid": 41274,
                 "glyph": "Ettironian"
             },
             "U+A71C": {
-                "cid": 45150,
+                "cid": 45149,
                 "glyph": "arrowdownmod"
             },
             "U+A722": {
@@ -35685,11 +35703,11 @@
                 "glyph": "rrotunda"
             },
             "U+A764": {
-                "cid": 41277,
+                "cid": 41276,
                 "glyph": "That"
             },
             "U+A765": {
-                "cid": 41279,
+                "cid": 41277,
                 "glyph": "that"
             },
             "U+A779": {
@@ -35753,7 +35771,7 @@
                 "glyph": "tinsular"
             },
             "U+A789": {
-                "cid": 45151,
+                "cid": 45150,
                 "glyph": "colonmod"
             },
             "U+A7AD": {
@@ -35761,7 +35779,7 @@
                 "glyph": "Lbelt"
             },
             "U+A7AE": {
-                "cid": 41294,
+                "cid": 41292,
                 "glyph": "I.a"
             },
             "U+A7B3": {
@@ -35773,15 +35791,15 @@
                 "glyph": "betalatin"
             },
             "U+A7F2": {
-                "cid": 44506,
+                "cid": 44504,
                 "glyph": "C.sups"
             },
             "U+A7F3": {
-                "cid": 44511,
+                "cid": 44509,
                 "glyph": "F.sups"
             },
             "U+A7F4": {
-                "cid": 44529,
+                "cid": 44527,
                 "glyph": "Q.sups"
             },
             "U+AB53": {
@@ -35793,51 +35811,51 @@
                 "glyph": "dzretroflex"
             },
             "U+AB67": {
-                "cid": 41207,
+                "cid": 41206,
                 "glyph": "tshook"
             },
             "U+FEFF": {
-                "cid": 45429,
+                "cid": 45428,
                 "glyph": "ZWNBS"
             },
             "U+1F10D": {
-                "cid": 43286,
+                "cid": 43285,
                 "glyph": "norights"
             },
             "U+1F10E": {
-                "cid": 43288,
+                "cid": 43286,
                 "glyph": "sharealike"
             },
             "U+1F10F": {
-                "cid": 43289,
+                "cid": 43288,
                 "glyph": "noncommercial"
             },
             "U+1F16D": {
-                "cid": 43300,
+                "cid": 43296,
                 "glyph": "creativecommons"
             },
             "U+1F16E": {
-                "cid": 43301,
+                "cid": 43300,
                 "glyph": "publicdomain"
             },
             "U+1F16F": {
-                "cid": 43304,
+                "cid": 43301,
                 "glyph": "attribution"
             },
             "U+1F4A9": {
-                "cid": 44994,
+                "cid": 44993,
                 "glyph": "poop"
             },
             "U+1F512": {
-                "cid": 44997,
+                "cid": 44995,
                 "glyph": "lock"
             },
             "U+1F748": {
-                "cid": 45007,
+                "cid": 45006,
                 "glyph": "tincture"
             },
             "U+1F916": {
-                "cid": 44995,
+                "cid": 44994,
                 "glyph": "robot"
             }
         }
@@ -35850,131 +35868,131 @@
                 "glyph": "space"
             },
             "U+0021": {
-                "cid": 42994,
+                "cid": 42992,
                 "glyph": "exclam"
             },
             "U+0022": {
-                "cid": 43005,
+                "cid": 43002,
                 "glyph": "quotedbl"
             },
             "U+0023": {
-                "cid": 43316,
+                "cid": 43314,
                 "glyph": "numbersign"
             },
             "U+0024": {
-                "cid": 44621,
+                "cid": 44619,
                 "glyph": "dollar"
             },
             "U+0025": {
-                "cid": 44723,
+                "cid": 44720,
                 "glyph": "percent"
             },
             "U+0026": {
-                "cid": 41271,
+                "cid": 41269,
                 "glyph": "ampersand"
             },
             "U+0027": {
-                "cid": 43002,
+                "cid": 42998,
                 "glyph": "quotesingle"
             },
             "U+0028": {
-                "cid": 43199,
+                "cid": 43197,
                 "glyph": "parenleft"
             },
             "U+0029": {
-                "cid": 43202,
+                "cid": 43199,
                 "glyph": "parenright"
             },
             "U+002A": {
-                "cid": 43224,
+                "cid": 43222,
                 "glyph": "asterisk"
             },
             "U+002B": {
-                "cid": 44776,
+                "cid": 44772,
                 "glyph": "plus"
             },
             "U+002C": {
-                "cid": 42981,
+                "cid": 42979,
                 "glyph": "comma"
             },
             "U+002D": {
-                "cid": 43129,
+                "cid": 43128,
                 "glyph": "hyphen"
             },
             "U+002E": {
-                "cid": 42979,
+                "cid": 42977,
                 "glyph": "period"
             },
             "U+002F": {
-                "cid": 43216,
+                "cid": 43215,
                 "glyph": "slash"
             },
             "U+0030": {
-                "cid": 42840,
+                "cid": 42834,
                 "glyph": "zero"
             },
             "U+0031": {
-                "cid": 42846,
+                "cid": 42840,
                 "glyph": "one"
             },
             "U+0032": {
-                "cid": 42856,
+                "cid": 42846,
                 "glyph": "two"
             },
             "U+0033": {
-                "cid": 42858,
+                "cid": 42856,
                 "glyph": "three"
             },
             "U+0034": {
-                "cid": 42860,
+                "cid": 42858,
                 "glyph": "four"
             },
             "U+0035": {
-                "cid": 42865,
+                "cid": 42860,
                 "glyph": "five"
             },
             "U+0036": {
-                "cid": 42867,
+                "cid": 42865,
                 "glyph": "six"
             },
             "U+0037": {
-                "cid": 42869,
+                "cid": 42867,
                 "glyph": "seven"
             },
             "U+0038": {
-                "cid": 42873,
+                "cid": 42869,
                 "glyph": "eight"
             },
             "U+0039": {
-                "cid": 42875,
+                "cid": 42873,
                 "glyph": "nine"
             },
             "U+003A": {
-                "cid": 42987,
+                "cid": 42981,
                 "glyph": "colon"
             },
             "U+003B": {
-                "cid": 42990,
+                "cid": 42987,
                 "glyph": "semicolon"
             },
             "U+003C": {
-                "cid": 44798,
+                "cid": 44796,
                 "glyph": "less"
             },
             "U+003D": {
-                "cid": 44794,
+                "cid": 44792,
                 "glyph": "equal"
             },
             "U+003E": {
-                "cid": 44800,
+                "cid": 44798,
                 "glyph": "greater"
             },
             "U+003F": {
-                "cid": 42997,
+                "cid": 42995,
                 "glyph": "question"
             },
             "U+0040": {
-                "cid": 43306,
+                "cid": 43304,
                 "glyph": "at"
             },
             "U+0041": {
@@ -36082,27 +36100,27 @@
                 "glyph": "Z"
             },
             "U+005B": {
-                "cid": 43206,
+                "cid": 43202,
                 "glyph": "bracketleft"
             },
             "U+005C": {
-                "cid": 43220,
+                "cid": 43218,
                 "glyph": "backslash"
             },
             "U+005D": {
-                "cid": 43208,
+                "cid": 43206,
                 "glyph": "bracketright"
             },
             "U+005E": {
-                "cid": 44812,
+                "cid": 44808,
                 "glyph": "asciicircum"
             },
             "U+005F": {
-                "cid": 43189,
+                "cid": 43188,
                 "glyph": "underscore"
             },
             "U+0060": {
-                "cid": 45015,
+                "cid": 45014,
                 "glyph": "grave"
             },
             "U+0061": {
@@ -36130,7 +36148,7 @@
                 "glyph": "f"
             },
             "U+0067": {
-                "cid": 41455,
+                "cid": 41453,
                 "glyph": "g.a"
             },
             "U+0068": {
@@ -36210,19 +36228,19 @@
                 "glyph": "z"
             },
             "U+007B": {
-                "cid": 43212,
+                "cid": 43208,
                 "glyph": "braceleft"
             },
             "U+007C": {
-                "cid": 43218,
+                "cid": 43216,
                 "glyph": "bar"
             },
             "U+007D": {
-                "cid": 43215,
+                "cid": 43212,
                 "glyph": "braceright"
             },
             "U+007E": {
-                "cid": 44816,
+                "cid": 44814,
                 "glyph": "asciitilde"
             },
             "U+00A0": {
@@ -36230,115 +36248,115 @@
                 "glyph": "space"
             },
             "U+00A1": {
-                "cid": 42995,
+                "cid": 42994,
                 "glyph": "exclamdown"
             },
             "U+00A2": {
-                "cid": 44629,
+                "cid": 44628,
                 "glyph": "cent"
             },
             "U+00A3": {
-                "cid": 44622,
+                "cid": 44621,
                 "glyph": "sterling"
             },
             "U+00A4": {
-                "cid": 44619,
+                "cid": 44618,
                 "glyph": "currency"
             },
             "U+00A5": {
-                "cid": 44625,
+                "cid": 44622,
                 "glyph": "yen"
             },
             "U+00A6": {
-                "cid": 43222,
+                "cid": 43220,
                 "glyph": "brokenbar"
             },
             "U+00A8": {
-                "cid": 45026,
+                "cid": 45025,
                 "glyph": "dieresis"
             },
             "U+00A9": {
-                "cid": 43274,
+                "cid": 43270,
                 "glyph": "copyright"
             },
             "U+00AA": {
-                "cid": 44498,
+                "cid": 44497,
                 "glyph": "ordfeminine"
             },
             "U+00AB": {
-                "cid": 43123,
+                "cid": 43114,
                 "glyph": "guillemotleft"
             },
             "U+00AC": {
-                "cid": 44830,
+                "cid": 44822,
                 "glyph": "logicalnot"
             },
             "U+00AD": {
-                "cid": 43129,
+                "cid": 43128,
                 "glyph": "hyphen"
             },
             "U+00AE": {
-                "cid": 43281,
+                "cid": 43277,
                 "glyph": "registered"
             },
             "U+00AF": {
-                "cid": 45029,
+                "cid": 45026,
                 "glyph": "macron"
             },
             "U+00B0": {
-                "cid": 44851,
+                "cid": 44841,
                 "glyph": "degree"
             },
             "U+00B2": {
-                "cid": 44401,
+                "cid": 44400,
                 "glyph": "two.sups"
             },
             "U+00B3": {
-                "cid": 44403,
+                "cid": 44401,
                 "glyph": "three.sups"
             },
             "U+00B4": {
-                "cid": 45016,
+                "cid": 45015,
                 "glyph": "acute"
             },
             "U+00B5": {
-                "cid": 41607,
+                "cid": 41605,
                 "glyph": "mu"
             },
             "U+00B7": {
-                "cid": 43150,
+                "cid": 43145,
                 "glyph": "periodcentered"
             },
             "U+00B8": {
-                "cid": 45038,
+                "cid": 45035,
                 "glyph": "cedilla"
             },
             "U+00B9": {
-                "cid": 44400,
+                "cid": 44397,
                 "glyph": "one.sups"
             },
             "U+00BA": {
-                "cid": 44501,
+                "cid": 44499,
                 "glyph": "ordmasculine"
             },
             "U+00BB": {
-                "cid": 43128,
+                "cid": 43123,
                 "glyph": "guillemotright"
             },
             "U+00BC": {
-                "cid": 44728,
+                "cid": 44725,
                 "glyph": "onequarter"
             },
             "U+00BD": {
-                "cid": 44729,
+                "cid": 44728,
                 "glyph": "onehalf"
             },
             "U+00BE": {
-                "cid": 44730,
+                "cid": 44729,
                 "glyph": "threequarters"
             },
             "U+00BF": {
-                "cid": 42998,
+                "cid": 42997,
                 "glyph": "questiondown"
             },
             "U+00C0": {
@@ -36434,7 +36452,7 @@
                 "glyph": "Odieresis"
             },
             "U+00D7": {
-                "cid": 44781,
+                "cid": 44778,
                 "glyph": "multiply"
             },
             "U+00D8": {
@@ -36714,7 +36732,7 @@
                 "glyph": "ubreve"
             },
             "U+0192": {
-                "cid": 44630,
+                "cid": 44629,
                 "glyph": "florin"
             },
             "U+01A0": {
@@ -36814,507 +36832,507 @@
                 "glyph": "gscript"
             },
             "U+02BB": {
-                "cid": 45046,
+                "cid": 45045,
                 "glyph": "commaturnedmod"
             },
             "U+02C7": {
-                "cid": 45020,
+                "cid": 45017,
                 "glyph": "caron"
             },
             "U+02C9": {
-                "cid": 45145,
+                "cid": 45143,
                 "glyph": "macronmod"
             },
             "U+02CA": {
-                "cid": 45146,
+                "cid": 45145,
                 "glyph": "acutemod"
             },
             "U+02CB": {
-                "cid": 45148,
+                "cid": 45146,
                 "glyph": "gravemod"
             },
             "U+02D9": {
-                "cid": 45035,
+                "cid": 45034,
                 "glyph": "dotaccent"
             },
             "U+0300": {
-                "cid": 45154,
+                "cid": 45153,
                 "glyph": "gravecmb"
             },
             "U+0301": {
-                "cid": 45158,
+                "cid": 45157,
                 "glyph": "acutecmb"
             },
             "U+0304": {
-                "cid": 45170,
+                "cid": 45169,
                 "glyph": "macroncmb"
             },
             "U+0307": {
-                "cid": 45181,
+                "cid": 45180,
                 "glyph": "dotaccentcmb"
             },
             "U+030C": {
-                "cid": 45197,
+                "cid": 45194,
                 "glyph": "caroncmb"
             },
             "U+0391": {
-                "cid": 41516,
+                "cid": 41510,
                 "glyph": "Alpha"
             },
             "U+0392": {
-                "cid": 41518,
+                "cid": 41516,
                 "glyph": "Beta"
             },
             "U+0393": {
-                "cid": 41519,
+                "cid": 41518,
                 "glyph": "Gamma"
             },
             "U+0394": {
-                "cid": 41521,
+                "cid": 41519,
                 "glyph": "Delta"
             },
             "U+0395": {
-                "cid": 41522,
+                "cid": 41521,
                 "glyph": "Epsilon"
             },
             "U+0396": {
-                "cid": 41528,
+                "cid": 41522,
                 "glyph": "Zeta"
             },
             "U+0397": {
-                "cid": 41530,
+                "cid": 41528,
                 "glyph": "Eta"
             },
             "U+0398": {
-                "cid": 41532,
+                "cid": 41530,
                 "glyph": "Theta"
             },
             "U+0399": {
-                "cid": 41533,
+                "cid": 41532,
                 "glyph": "Iota"
             },
             "U+039A": {
-                "cid": 41536,
+                "cid": 41533,
                 "glyph": "Kappa"
             },
             "U+039B": {
-                "cid": 41537,
+                "cid": 41536,
                 "glyph": "Lambda"
             },
             "U+039C": {
-                "cid": 41538,
+                "cid": 41537,
                 "glyph": "Mu"
             },
             "U+039D": {
-                "cid": 41541,
+                "cid": 41538,
                 "glyph": "Nu"
             },
             "U+039E": {
-                "cid": 41543,
+                "cid": 41541,
                 "glyph": "Xi"
             },
             "U+039F": {
-                "cid": 41544,
+                "cid": 41543,
                 "glyph": "Omicron"
             },
             "U+03A0": {
-                "cid": 41546,
+                "cid": 41544,
                 "glyph": "Pi"
             },
             "U+03A1": {
-                "cid": 41547,
+                "cid": 41546,
                 "glyph": "Rho"
             },
             "U+03A3": {
-                "cid": 41550,
+                "cid": 41547,
                 "glyph": "Sigma"
             },
             "U+03A4": {
-                "cid": 41551,
+                "cid": 41550,
                 "glyph": "Tau"
             },
             "U+03A5": {
-                "cid": 41554,
+                "cid": 41551,
                 "glyph": "Upsilon"
             },
             "U+03A6": {
-                "cid": 41556,
+                "cid": 41554,
                 "glyph": "Phi"
             },
             "U+03A7": {
-                "cid": 41558,
+                "cid": 41556,
                 "glyph": "Chi"
             },
             "U+03A8": {
-                "cid": 41560,
+                "cid": 41558,
                 "glyph": "Psi"
             },
             "U+03A9": {
-                "cid": 41563,
+                "cid": 41560,
                 "glyph": "Omega"
             },
             "U+03B1": {
-                "cid": 41585,
+                "cid": 41581,
                 "glyph": "alpha"
             },
             "U+03B2": {
-                "cid": 41588,
+                "cid": 41585,
                 "glyph": "beta"
             },
             "U+03B3": {
-                "cid": 41589,
+                "cid": 41588,
                 "glyph": "gamma"
             },
             "U+03B4": {
-                "cid": 41591,
+                "cid": 41589,
                 "glyph": "delta"
             },
             "U+03B5": {
-                "cid": 41594,
+                "cid": 41591,
                 "glyph": "epsilon"
             },
             "U+03B6": {
-                "cid": 41596,
+                "cid": 41594,
                 "glyph": "zeta"
             },
             "U+03B7": {
-                "cid": 41597,
+                "cid": 41596,
                 "glyph": "eta"
             },
             "U+03B8": {
-                "cid": 41598,
+                "cid": 41597,
                 "glyph": "theta"
             },
             "U+03B9": {
-                "cid": 41600,
+                "cid": 41598,
                 "glyph": "iota"
             },
             "U+03BA": {
-                "cid": 41603,
+                "cid": 41600,
                 "glyph": "kappa"
             },
             "U+03BB": {
-                "cid": 41605,
+                "cid": 41603,
                 "glyph": "lambda"
             },
             "U+03BC": {
-                "cid": 41607,
+                "cid": 41605,
                 "glyph": "mu"
             },
             "U+03BD": {
-                "cid": 41612,
+                "cid": 41607,
                 "glyph": "nu"
             },
             "U+03BE": {
-                "cid": 41613,
+                "cid": 41612,
                 "glyph": "xi"
             },
             "U+03BF": {
-                "cid": 41616,
+                "cid": 41613,
                 "glyph": "omicron"
             },
             "U+03C0": {
-                "cid": 41619,
+                "cid": 41616,
                 "glyph": "pi"
             },
             "U+03C1": {
-                "cid": 41620,
+                "cid": 41619,
                 "glyph": "rho"
             },
             "U+03C2": {
-                "cid": 41637,
+                "cid": 41634,
                 "glyph": "sigma.end"
             },
             "U+03C3": {
-                "cid": 41621,
+                "cid": 41620,
                 "glyph": "sigma"
             },
             "U+03C4": {
-                "cid": 41625,
+                "cid": 41621,
                 "glyph": "tau"
             },
             "U+03C5": {
-                "cid": 41626,
+                "cid": 41625,
                 "glyph": "upsilon"
             },
             "U+03C6": {
-                "cid": 41627,
+                "cid": 41626,
                 "glyph": "phi"
             },
             "U+03C7": {
-                "cid": 41629,
+                "cid": 41627,
                 "glyph": "chi"
             },
             "U+03C8": {
-                "cid": 41632,
+                "cid": 41629,
                 "glyph": "psi"
             },
             "U+03C9": {
-                "cid": 41634,
+                "cid": 41632,
                 "glyph": "omega"
             },
             "U+0401": {
-                "cid": 42244,
+                "cid": 42243,
                 "glyph": "Io"
             },
             "U+0410": {
-                "cid": 42182,
+                "cid": 42179,
                 "glyph": "Acyr"
             },
             "U+0411": {
-                "cid": 42189,
+                "cid": 42182,
                 "glyph": "Be"
             },
             "U+0412": {
-                "cid": 42190,
+                "cid": 42189,
                 "glyph": "Ve"
             },
             "U+0413": {
-                "cid": 42192,
+                "cid": 42190,
                 "glyph": "Ghe"
             },
             "U+0414": {
-                "cid": 42193,
+                "cid": 42192,
                 "glyph": "De"
             },
             "U+0415": {
-                "cid": 42196,
+                "cid": 42193,
                 "glyph": "Ie"
             },
             "U+0416": {
-                "cid": 42198,
+                "cid": 42196,
                 "glyph": "Zhe"
             },
             "U+0417": {
-                "cid": 42200,
+                "cid": 42198,
                 "glyph": "Ze"
             },
             "U+0418": {
-                "cid": 42201,
+                "cid": 42200,
                 "glyph": "Icyr"
             },
             "U+0419": {
-                "cid": 42203,
+                "cid": 42201,
                 "glyph": "Ishort"
             },
             "U+041A": {
-                "cid": 42204,
+                "cid": 42203,
                 "glyph": "Ka"
             },
             "U+041B": {
-                "cid": 42207,
+                "cid": 42204,
                 "glyph": "El"
             },
             "U+041C": {
-                "cid": 42208,
+                "cid": 42207,
                 "glyph": "Em"
             },
             "U+041D": {
-                "cid": 42209,
+                "cid": 42208,
                 "glyph": "En"
             },
             "U+041E": {
-                "cid": 42212,
+                "cid": 42209,
                 "glyph": "Ocyr"
             },
             "U+041F": {
-                "cid": 42213,
+                "cid": 42212,
                 "glyph": "Pe"
             },
             "U+0420": {
-                "cid": 42214,
+                "cid": 42213,
                 "glyph": "Er"
             },
             "U+0421": {
-                "cid": 42215,
+                "cid": 42214,
                 "glyph": "Es"
             },
             "U+0422": {
-                "cid": 42217,
+                "cid": 42215,
                 "glyph": "Te"
             },
             "U+0423": {
-                "cid": 42219,
+                "cid": 42217,
                 "glyph": "Ucyr"
             },
             "U+0424": {
-                "cid": 42220,
+                "cid": 42219,
                 "glyph": "Ef"
             },
             "U+0425": {
-                "cid": 42222,
+                "cid": 42220,
                 "glyph": "Ha"
             },
             "U+0426": {
-                "cid": 42224,
+                "cid": 42222,
                 "glyph": "Tse"
             },
             "U+0427": {
-                "cid": 42225,
+                "cid": 42224,
                 "glyph": "Che"
             },
             "U+0428": {
-                "cid": 42227,
+                "cid": 42225,
                 "glyph": "Sha"
             },
             "U+0429": {
-                "cid": 42230,
+                "cid": 42227,
                 "glyph": "Shcha"
             },
             "U+042A": {
-                "cid": 42233,
+                "cid": 42230,
                 "glyph": "Hard"
             },
             "U+042B": {
-                "cid": 42235,
+                "cid": 42233,
                 "glyph": "Yeru"
             },
             "U+042C": {
-                "cid": 42236,
+                "cid": 42235,
                 "glyph": "Soft"
             },
             "U+042D": {
-                "cid": 42237,
+                "cid": 42236,
                 "glyph": "Ecyr"
             },
             "U+042E": {
-                "cid": 42239,
+                "cid": 42237,
                 "glyph": "Yu"
             },
             "U+042F": {
-                "cid": 42242,
+                "cid": 42239,
                 "glyph": "Ya"
             },
             "U+0430": {
-                "cid": 42332,
+                "cid": 42331,
                 "glyph": "acyr"
             },
             "U+0431": {
-                "cid": 42336,
+                "cid": 42332,
                 "glyph": "be"
             },
             "U+0432": {
-                "cid": 42338,
+                "cid": 42336,
                 "glyph": "ve"
             },
             "U+0433": {
-                "cid": 42340,
+                "cid": 42338,
                 "glyph": "ghe"
             },
             "U+0434": {
-                "cid": 42341,
+                "cid": 42340,
                 "glyph": "de"
             },
             "U+0435": {
-                "cid": 42342,
+                "cid": 42341,
                 "glyph": "ie"
             },
             "U+0436": {
-                "cid": 42343,
+                "cid": 42342,
                 "glyph": "zhe"
             },
             "U+0437": {
-                "cid": 42347,
+                "cid": 42343,
                 "glyph": "ze"
             },
             "U+0438": {
-                "cid": 42350,
+                "cid": 42347,
                 "glyph": "icyr"
             },
             "U+0439": {
-                "cid": 42351,
+                "cid": 42350,
                 "glyph": "ishort"
             },
             "U+043A": {
-                "cid": 42352,
+                "cid": 42351,
                 "glyph": "ka"
             },
             "U+043B": {
-                "cid": 42354,
+                "cid": 42352,
                 "glyph": "el"
             },
             "U+043C": {
-                "cid": 42355,
+                "cid": 42354,
                 "glyph": "em"
             },
             "U+043D": {
-                "cid": 42358,
+                "cid": 42355,
                 "glyph": "en"
             },
             "U+043E": {
-                "cid": 42360,
+                "cid": 42358,
                 "glyph": "ocyr"
             },
             "U+043F": {
-                "cid": 42362,
+                "cid": 42360,
                 "glyph": "pe"
             },
             "U+0440": {
-                "cid": 42365,
+                "cid": 42362,
                 "glyph": "er"
             },
             "U+0441": {
-                "cid": 42366,
+                "cid": 42365,
                 "glyph": "es"
             },
             "U+0442": {
-                "cid": 42367,
+                "cid": 42366,
                 "glyph": "te"
             },
             "U+0443": {
-                "cid": 42368,
+                "cid": 42367,
                 "glyph": "ucyr"
             },
             "U+0444": {
-                "cid": 42370,
+                "cid": 42368,
                 "glyph": "ef"
             },
             "U+0445": {
-                "cid": 42371,
+                "cid": 42370,
                 "glyph": "ha"
             },
             "U+0446": {
-                "cid": 42374,
+                "cid": 42371,
                 "glyph": "tse"
             },
             "U+0447": {
-                "cid": 42375,
+                "cid": 42374,
                 "glyph": "che"
             },
             "U+0448": {
-                "cid": 42376,
+                "cid": 42375,
                 "glyph": "sha"
             },
             "U+0449": {
-                "cid": 42379,
+                "cid": 42376,
                 "glyph": "shcha"
             },
             "U+044A": {
-                "cid": 42391,
+                "cid": 42379,
                 "glyph": "hard"
             },
             "U+044B": {
-                "cid": 42392,
+                "cid": 42391,
                 "glyph": "yeru"
             },
             "U+044C": {
-                "cid": 42397,
+                "cid": 42392,
                 "glyph": "soft"
             },
             "U+044D": {
-                "cid": 42399,
+                "cid": 42397,
                 "glyph": "ecyr"
             },
             "U+044E": {
-                "cid": 42400,
+                "cid": 42399,
                 "glyph": "yu"
             },
             "U+044F": {
-                "cid": 42401,
+                "cid": 42400,
                 "glyph": "ya"
             },
             "U+0451": {
-                "cid": 42406,
+                "cid": 42403,
                 "glyph": "io"
             },
             "U+1E3E": {
@@ -37686,243 +37704,243 @@
                 "glyph": "ytilde"
             },
             "U+2010": {
-                "cid": 43129,
+                "cid": 43128,
                 "glyph": "hyphen"
             },
             "U+2011": {
-                "cid": 43129,
+                "cid": 43128,
                 "glyph": "hyphen"
             },
             "U+2012": {
-                "cid": 43143,
+                "cid": 43142,
                 "glyph": "figuredash"
             },
             "U+2013": {
-                "cid": 43133,
+                "cid": 43129,
                 "glyph": "endash"
             },
             "U+2014": {
-                "cid": 43134,
+                "cid": 43133,
                 "glyph": "emdash"
             },
             "U+2016": {
-                "cid": 43232,
+                "cid": 43231,
                 "glyph": "bardbl"
             },
             "U+2018": {
-                "cid": 43007,
+                "cid": 43005,
                 "glyph": "quoteleft"
             },
             "U+2019": {
-                "cid": 43008,
+                "cid": 43007,
                 "glyph": "quoteright"
             },
             "U+201A": {
-                "cid": 43075,
+                "cid": 43071,
                 "glyph": "quotesinglbase"
             },
             "U+201C": {
-                "cid": 43012,
+                "cid": 43008,
                 "glyph": "quotedblleft"
             },
             "U+201D": {
-                "cid": 43071,
+                "cid": 43012,
                 "glyph": "quotedblright"
             },
             "U+201E": {
-                "cid": 43081,
+                "cid": 43075,
                 "glyph": "quotedblbase"
             },
             "U+2022": {
-                "cid": 43152,
+                "cid": 43150,
                 "glyph": "bullet"
             },
             "U+2030": {
-                "cid": 44724,
+                "cid": 44723,
                 "glyph": "perthousand"
             },
             "U+2032": {
-                "cid": 44852,
+                "cid": 44851,
                 "glyph": "prime"
             },
             "U+2033": {
-                "cid": 44853,
+                "cid": 44852,
                 "glyph": "dblprime"
             },
             "U+2035": {
-                "cid": 44858,
+                "cid": 44853,
                 "glyph": "primereversed"
             },
             "U+2039": {
-                "cid": 43111,
+                "cid": 43104,
                 "glyph": "guilsinglleft"
             },
             "U+203A": {
-                "cid": 43114,
+                "cid": 43111,
                 "glyph": "guilsinglright"
             },
             "U+203C": {
-                "cid": 43234,
+                "cid": 43232,
                 "glyph": "exclamdbl"
             },
             "U+2047": {
-                "cid": 43236,
+                "cid": 43234,
                 "glyph": "questiondbl"
             },
             "U+2048": {
-                "cid": 43241,
+                "cid": 43238,
                 "glyph": "questionexclam"
             },
             "U+2049": {
-                "cid": 43238,
+                "cid": 43236,
                 "glyph": "exclamquestion"
             },
             "U+2074": {
-                "cid": 44404,
+                "cid": 44403,
                 "glyph": "four.sups"
             },
             "U+20A9": {
-                "cid": 44638,
+                "cid": 44637,
                 "glyph": "won"
             },
             "U+20AB": {
-                "cid": 44640,
+                "cid": 44638,
                 "glyph": "dong"
             },
             "U+20AC": {
-                "cid": 44628,
+                "cid": 44626,
                 "glyph": "Euro"
             },
             "U+2105": {
-                "cid": 44877,
+                "cid": 44876,
                 "glyph": "careof"
             },
             "U+2113": {
-                "cid": 44879,
+                "cid": 44877,
                 "glyph": "litre"
             },
             "U+2116": {
-                "cid": 42834,
+                "cid": 42781,
                 "glyph": "numero"
             },
             "U+2122": {
-                "cid": 43283,
+                "cid": 43281,
                 "glyph": "trademark"
             },
             "U+2126": {
-                "cid": 41563,
+                "cid": 41560,
                 "glyph": "Omega"
             },
             "U+212E": {
-                "cid": 44881,
+                "cid": 44879,
                 "glyph": "estimated"
             },
             "U+21E7": {
-                "cid": 45416,
+                "cid": 45414,
                 "glyph": "shift"
             },
             "U+2200": {
-                "cid": 44866,
+                "cid": 44865,
                 "glyph": "universal"
             },
             "U+2202": {
-                "cid": 44860,
+                "cid": 44858,
                 "glyph": "partialdiff"
             },
             "U+2203": {
-                "cid": 44869,
+                "cid": 44866,
                 "glyph": "existential"
             },
             "U+2206": {
-                "cid": 41521,
+                "cid": 41519,
                 "glyph": "Delta"
             },
             "U+2212": {
-                "cid": 44778,
+                "cid": 44776,
                 "glyph": "minus"
             },
             "U+221F": {
-                "cid": 44838,
+                "cid": 44836,
                 "glyph": "orthogonal"
             },
             "U+2229": {
-                "cid": 44836,
+                "cid": 44834,
                 "glyph": "intersection"
             },
             "U+222B": {
-                "cid": 44861,
+                "cid": 44860,
                 "glyph": "integral"
             },
             "U+2236": {
-                "cid": 44871,
+                "cid": 44869,
                 "glyph": "ratio"
             },
             "U+2237": {
-                "cid": 44873,
+                "cid": 44871,
                 "glyph": "proportion"
             },
             "U+2261": {
-                "cid": 44796,
+                "cid": 44794,
                 "glyph": "equivalence"
             },
             "U+2318": {
-                "cid": 45409,
+                "cid": 45407,
                 "glyph": "command"
             },
             "U+25CA": {
-                "cid": 45011,
+                "cid": 45009,
                 "glyph": "lozenge"
             },
             "U+25CC": {
-                "cid": 45153,
+                "cid": 45151,
                 "glyph": "circledotted"
             },
             "U+266A": {
-                "cid": 44976,
+                "cid": 44971,
                 "glyph": "eighthnote"
             },
             "U+266B": {
-                "cid": 44977,
+                "cid": 44976,
                 "glyph": "musicalnotedbl"
             },
             "U+2713": {
-                "cid": 44967,
+                "cid": 44963,
                 "glyph": "check"
             },
             "U+FB00": {
-                "cid": 41282,
+                "cid": 41279,
                 "glyph": "f_f"
             },
             "U+FB01": {
-                "cid": 45431,
+                "cid": 45430,
                 "glyph": "fi"
             },
             "U+FB02": {
-                "cid": 45436,
+                "cid": 45431,
                 "glyph": "fl"
             },
             "U+FB03": {
-                "cid": 41284,
+                "cid": 41282,
                 "glyph": "f_f_i"
             },
             "U+FB04": {
-                "cid": 41289,
+                "cid": 41284,
                 "glyph": "f_f_l"
             },
             "U+1F12F": {
-                "cid": 43290,
+                "cid": 43289,
                 "glyph": "copyleft"
             },
             "U+1F16A": {
-                "cid": 43293,
+                "cid": 43290,
                 "glyph": "commercemark"
             },
             "U+1F16B": {
-                "cid": 43294,
+                "cid": 43293,
                 "glyph": "deposeemark"
             },
             "U+1F16C": {
-                "cid": 43296,
+                "cid": 43294,
                 "glyph": "marcaregistrada"
             }
         }
@@ -37931,75 +37949,75 @@
         "count": 18,
         "details": {
             "U+00A7": {
-                "cid": 43229,
+                "cid": 43227,
                 "glyph": "section"
             },
             "U+00B1": {
-                "cid": 44808,
+                "cid": 44805,
                 "glyph": "plusminus"
             },
             "U+00B6": {
-                "cid": 43231,
+                "cid": 43229,
                 "glyph": "paragraph"
             },
             "U+00F7": {
-                "cid": 44788,
+                "cid": 44781,
                 "glyph": "divide"
             },
             "U+2020": {
-                "cid": 43226,
+                "cid": 43224,
                 "glyph": "dagger"
             },
             "U+2021": {
-                "cid": 43227,
+                "cid": 43226,
                 "glyph": "daggerdbl"
             },
             "U+220F": {
-                "cid": 44876,
+                "cid": 44875,
                 "glyph": "product"
             },
             "U+2211": {
-                "cid": 44875,
+                "cid": 44873,
                 "glyph": "summation"
             },
             "U+2215": {
-                "cid": 44718,
+                "cid": 44715,
                 "glyph": "divisionslash"
             },
             "U+221A": {
-                "cid": 44865,
+                "cid": 44864,
                 "glyph": "radical"
             },
             "U+221E": {
-                "cid": 44841,
+                "cid": 44838,
                 "glyph": "infinity"
             },
             "U+2248": {
-                "cid": 44822,
+                "cid": 44816,
                 "glyph": "approxequal"
             },
             "U+2260": {
-                "cid": 44814,
+                "cid": 44812,
                 "glyph": "notequal"
             },
             "U+2264": {
-                "cid": 44802,
+                "cid": 44800,
                 "glyph": "lessequal"
             },
             "U+2265": {
-                "cid": 44805,
+                "cid": 44802,
                 "glyph": "greaterequal"
             },
             "U+25AA": {
-                "cid": 43161,
+                "cid": 43158,
                 "glyph": "bulletsquare"
             },
             "U+25AB": {
-                "cid": 43165,
+                "cid": 43161,
                 "glyph": "bulletsquarewhite"
             },
             "U+25E6": {
-                "cid": 43158,
+                "cid": 43155,
                 "glyph": "bulletwhite"
             }
         }
